@@ -5,3 +5,4 @@
 - 01.05 [CSS selector](https://eomtttttt-develop.tistory.com/212)
 - 01.05 [CSS nth-child](https://eomtttttt-develop.tistory.com/213)
 - 01.10 [React project depoly by Github page](https://eomtttttt-develop.tistory.com/217)
+- 01.12 [Algorithm: Make array using stack(push, pop)](https://eomtttttt-develop.tistory.com/218)
