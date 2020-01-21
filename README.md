@@ -8,3 +8,4 @@
 - 01.12 [Algorithm: Make array using stack(push, pop)](https://eomtttttt-develop.tistory.com/218)
 - 01.16 [React + Firebase Realtime Database](https://eomtttttt-develop.tistory.com/219)
 - 01.18 [Upload image to s3 by image url](https://eomtttttt-develop.tistory.com/220)
+- 01.21 [JavaScript Sort()](https://eomtttttt-develop.tistory.com/221)
