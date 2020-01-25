@@ -11,3 +11,4 @@
 - 01.21 [JavaScript Sort()](https://eomtttttt-develop.tistory.com/221)
 - 01.22 [Jenkins install & Change port number](https://eomtttttt-develop.tistory.com/222)
 - 01.25 [CRA eslint, prettier](https://eomtttttt-develop.tistory.com/223)
+- 01.25 [CRA TypeScript](https://eomtttttt-develop.tistory.com/224)
