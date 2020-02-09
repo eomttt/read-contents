@@ -15,3 +15,4 @@
 - 01.26 [GraphQL + Node JS](https://eomtttttt-develop.tistory.com/225)
 - 01.29 [GraphQL + Query with Parameter](https://eomtttttt-develop.tistory.com/226)
 - 02.05 [JavaScript Clean Code (Copy)](https://eomtttttt-develop.tistory.com/227)
+- 02.09 [GraphQL + Mutation](https://eomtttttt-develop.tistory.com/228)
