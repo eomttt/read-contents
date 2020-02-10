@@ -17,3 +17,4 @@
 - 02.05 [JavaScript Clean Code (Copy)](https://eomtttttt-develop.tistory.com/227)
 - 02.09 [GraphQL + Mutation](https://eomtttttt-develop.tistory.com/228)
 - 02.09 [GraphQL + Mutation (delete)](https://eomtttttt-develop.tistory.com/229)
+- 02.10 [GraphQL concept (Copy)](https://eomtttttt-develop.tistory.com/230)
