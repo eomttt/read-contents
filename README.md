@@ -19,3 +19,5 @@
 - 02.09 [GraphQL + Mutation (delete)](https://eomtttttt-develop.tistory.com/229)
 - 02.10 [GraphQL concept (Copy)](https://eomtttttt-develop.tistory.com/230)
 - 02.11 [Import file from absolute path in React](https://eomtttttt-develop.tistory.com/231)
+- 02.12 [NodeJS, NPM version up](https://eomtttttt-develop.tistory.com/232)
+- 02.12 [Import file from absolute path in React (Made by CRA)](https://eomtttttt-develop.tistory.com/233)
