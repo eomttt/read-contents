@@ -22,3 +22,4 @@
 - 02.12 [NodeJS, NPM version up](https://eomtttttt-develop.tistory.com/232)
 - 02.12 [Import file from absolute path in React (Made by CRA)](https://eomtttttt-develop.tistory.com/233)
 - 02.13 [Curry & Partial Application](https://eomtttttt-develop.tistory.com/234)
+- 02.15 [Naver FE News (Copy)](https://eomtttttt-develop.tistory.com/235)
