@@ -120,3 +120,4 @@
     - [번역된 책도 있다. 근데 엄청 어렵다는 댓글이...](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=58740186)
     - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 
+- ## [OCT](https://github.com/eomttt/studies/blob/master/2020/10.md)
