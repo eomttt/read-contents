@@ -121,3 +121,5 @@
     - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 
 - ## [OCT](https://github.com/eomttt/studies/blob/master/2020/10.md)
+
+- ## [NOV](https://github.com/eomttt/studies/blob/master/2020/11.md)
