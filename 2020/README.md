@@ -114,11 +114,6 @@
   - [GitHub Repos That Should Be Starred by Every Web Developer](https://medium.com/better-programming/github-repos-that-should-be-starred-by-every-web-developer-e9eaa244810e)
 
 - ## [SEP](https://github.com/eomttt/studies/blob/master/2020/9.md)
-    - [테스트: TOAST UI](https://ui.toast.com/fe-guide/ko_TEST/)
-    - [2020년 이후 JavaScript의 동향](https://d2.naver.com/helloworld/8257914)
-    - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
-    - [번역된 책도 있다. 근데 엄청 어렵다는 댓글이...](https://www.aladin.co.kr/shop/wproduct.aspx?start=short&ItemId=58740186)
-    - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 
 - ## [OCT](https://github.com/eomttt/studies/blob/master/2020/10.md)
 
