@@ -5,7 +5,7 @@
     - ### [React](https://github.com/eomttt/studies/tree/master/2020#react-1)
     - ### [Node](https://github.com/eomttt/studies/tree/master/2020#node-1)
 
-- ## [TypeScript]
+- ## [TypeScript](https://github.com/eomttt/studies#typescript-1)
 - ## [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
 
 - ## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
