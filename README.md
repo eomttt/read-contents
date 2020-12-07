@@ -42,12 +42,28 @@
 - [Web developer roadmap](https://github.com/devJang/developer-roadmap)
 
 - [[IT 개발자와 일할 때 필요한 모든 개발지식] A to Z 자료 모음집](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+
+- [My Top5 APIs For New Developers](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
+  - 가지고 놀면 재밌어 보이는 API 들이 있다. 포켓몬, 확언, Countries 정보 뭐 번역 같은것도 있는데 특이한 번역도 존재한다 (요다어, 엘프어 , 그르투어 등)
+
+- [Lerna(🐉)로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)
+  - 모노레포에 궁금한점이 있었는데 개념 설명으로는 충분한듯. 특히 Learna 를 사용하여 나누는데 facebook/react, babel 를 예로 들어주면서 대략적인 개념을 알려줌
 # Frontend
 - [Naver FE News](https://github.com/naver/fe-news)
 
 - [실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 
 - [FE 기술 이야기](https://velog.io/@jay/SSR-CSR-101)
+
+- [npm package.json에서 틸드(~) 대신 캐럿(^) 사용하기](https://blog.outsider.ne.kr/1041)
+
+  - 틸드는 간단히 말하면 현재 지정한 버전의 마지막 자리 내의 범위에서만 자동으로 업데이트한다.
+  - 캐럿(^)은 Node.js 모듈이 이 SemVer의 규약을 따른다는 것을 신뢰한다는 가정하에서 동작한다. 그래서 MINOR나 PATCH버전은 하위호환성이 보장되어야 하므로 업데이트를 한다.
+      - 캐럿(^)을 사용할 때 0.x.x에서는 마치 틸드처럼 동작해서 지정한 버전 자릿수 내에서만 업데이트한다.
+
+- [9 Web Components UI Libraries You Should Know in 2020](https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103)
+
+- [FrontEnd interview handbook](https://yangshun.github.io/front-end-interview-handbook/kr/html-questions/)
 ## JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
@@ -68,6 +84,22 @@
 - [10 JavaScript Quiz Questions and Answers to Sharpen Your Skills](https://typeofnan.dev/10-javascript-quiz-questions-and-answers/)
 
 - [[JavaScript] 배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
+
+- [Stop Making These 5 Javascript Style Mistakes](https://medium.com/the-dev-caf%C3%A9/stop-making-these-5-javascript-style-mistakes-7b352e1b47e3)
+
+- [Are We Ready to Replace Lodash?](https://medium.com/swlh/are-we-ready-to-replace-lodash-60cd651f6c58)
+  - Lodash 함수를 JS, RxJS 로 변경 할 수가 있는데 그에 대한 답들을 몇가지 준다. (딱히 lodash 가 필요없다는...하지만 성능 측정이 필요해보이긴한다) 나중에 한번 비교 측정 해보고싶다.
+
+- [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+  - Event Loop
+  - Hoisting
+  - Scope (Chain)
+  - the JavaScript Engine
+  - Prototypal Inheritance
+  - Generators and Iterators
+  - Promisese & Async/Await
+
+- [[JavaScript] 요소의 절대좌표 상대좌표 구하기](https://mommoo.tistory.com/85)
 
 ### React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
@@ -109,6 +141,8 @@
   
   - [React Context 사용법](https://www.daleseo.com/react-context/)
 
+  - [5 Recommended Tools for Optimizing Performance in ReactJS](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d)
+
 ### Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
 
@@ -120,6 +154,9 @@
   - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 
   - [Typescript 기본 정리 시리즈](https://velog.io/@denmark-banana/TypeScript-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85)
+
+  - [How (and why) you should use TypeScript with Node and Express.](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
+    - Node, Express 에 Typescript 적용, Front 단에서는 많이들 TypeScript를 적용하는 방법을 서술하는데 백단 (Node) 에서는 거의 없어서 정리해봄
 ## CSS
 - [선택자 비교 (공백, > // +, ~)](https://eomtttttt-develop.tistory.com/212)
 
@@ -127,10 +164,14 @@
 
 - [BEM 방식](https://nykim.work/15)
 
+- [CSS Fundamentals: Positioning](https://itnext.io/css-fundamentals-positioning-b0d60a0fdd3b)
+
 ## Webpack
 - [CRA 없이 React 프로젝트 생성](https://leehwarang.github.io/2019/08/20/react_setting.html)
 
 - [React 개발 환경을 구축하면서 배우는 웹팩(Webpack) 기초](https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Webpack-%EA%B8%B0%EC%B4%88)
+
+- [Webpack handbook](https://joshua1988.github.io/webpack-guide/)
 
 ## GraphQL
 - [How to GraphQL ](https://velog.io/@cadenzah/graphql-01-introduction)
