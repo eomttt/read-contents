@@ -11,13 +11,15 @@
 - ## [Webpack]()
 - ## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
 
-- ## [Regex]()
-
 # [DevOps](https://github.com/eomttt/studies/tree/master/2020#devops-1)
 
+- ## [AWS]()
 - ## [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
 
 - ## [Docker]()
+
+- ## [Regex]()
+- ## [Shell script]()
 
 
 # Development References
@@ -38,6 +40,8 @@
 - [객체지향 개발 5대 원칙 (SOLID)](https://velog.io/@lsb156/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C-5%EB%8C%80-%EC%9B%90%EC%B9%99-SOLID)
 
 - [Web developer roadmap](https://github.com/devJang/developer-roadmap)
+
+- [[IT 개발자와 일할 때 필요한 모든 개발지식] A to Z 자료 모음집](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 # Frontend
 - [Naver FE News](https://github.com/naver/fe-news)
 
@@ -60,6 +64,10 @@
 - [Intersection Observer](https://velog.io/@yejinh/Intersection-Observer%EB%A1%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
 - [aync/await를 map안에서 이용하려면?](https://velog.io/@yhe228/ayncawait%EB%A5%BC-map%EC%95%88%EC%97%90%EC%84%9C-%EC%9D%B4%EC%9A%A9%ED%95%98%EB%A0%A4%EB%A9%B4)
+
+- [10 JavaScript Quiz Questions and Answers to Sharpen Your Skills](https://typeofnan.dev/10-javascript-quiz-questions-and-answers/)
+
+- [[JavaScript] 배열의 특징 (shift, unshift의 효율성에 대한 제고)](https://woomin.netlify.app/Posts/2020-06-15-shift-unshift/)
 
 ### React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
@@ -84,8 +92,12 @@
 
   - [redux-saga 가 해결하는 문제](https://min9nim.github.io/2020/04/redux-saga/)
 
+  - [프레젠테이션 컴포넌트와 컨테이너 컴포넌트](https://blueshw.github.io/2017/06/26/presentaional-component-container-component/)
+
   - [Component 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
     - 도메인 중심의 컴포넌트 -> Atomic Design -> Container/Presentational 분리 -> Custom hooks를 데이터 관리 까지 컴포넌트를 나눌 때 고민하는 부분이 많이 담겨 있다
+
+  - [When to useMemo and useCallback](https://ideveloper2.dev/blog/2019-06-14--when-to-use-memo-and-use-callback/)
 
   - [useCallback과 React.Memo을 통한 렌더링 최적화](https://velog.io/@yejinh/useCallback%EA%B3%BC-React.Memo%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94)
     - useCallback을 사용함으로서 렌더링 최적화가 어떻게 일어나는지 잘 설명되어 있다
@@ -94,6 +106,8 @@
 
   - [리액트(React)는 왜 쓰는 건데⁉](https://velog.io/@wooder2050/%EB%A6%AC%EC%95%A1%ED%8A%B8React%EB%8A%94-%EC%99%9C-%EC%93%B0%EB%8A%94-%EA%B1%B4%EB%8D%B0)
     - React 개념에 대한 간단한 정리
+  
+  - [React Context 사용법](https://www.daleseo.com/react-context/)
 
 ### Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
@@ -134,14 +148,20 @@
 - [GraphQL 시작하기 - 5 (Api 연결)](https://eomtttttt-develop.tistory.com/239)
 
 - [GraphQL 로 영화 정보 가져오기](https://velog.io/@eomttt/GraphQL-%EB%A1%9C-%EC%98%81%ED%99%94-%EC%A0%95%EB%B3%B4-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
+
+# DevOps
+## AWS
+- [AWS 자습서](https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b)
+
+## Jenkins
+- [Jenkins port 변경](https://eomtttttt-develop.tistory.com/222)
+
 ## Regex
 - [정규식 포기자를 위한 가장 쉬운 정규식 — 상](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-1-2d7448375c11)
 
 - [정규식 포기자를 위한 가장 쉬운 정규식 — 하](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%98-a4446854297e)
-
-# DevOps
-## Jenkins
-- [Jenkins port 변경](https://eomtttttt-develop.tistory.com/222)
-
 ## Docker
 - [Docker를 소개합니다](https://deveric.tistory.com/m/101?category=387263)
+
+# Shell script
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
