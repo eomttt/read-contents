@@ -21,8 +21,18 @@
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 
 - [30 seconds of code](https://www.30secondsofcode.org/)
+
+- [함수형 프로그래머가 되고 싶다고?](https://fedevelopers.github.io/tech.description/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0-(Part-1)/)
+  - 함수형 프로그래밍을 하는 법에 대하여 자세하게 설명하고 있고 대략적인 함수형 프로그램이 무엇인가에 대한 설명이 되어있다
+
+- [기술면접 준비하기](https://velog.io/@hygoogi/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0)
+  - JAVA 를 바탕으로 글이 써져있으나, 전반적인 웹에 대한 설명이라서 한번씩 생각날 때 읽으면 좋다
+
+- [개발 도서 관련 NOTION](https://www.notion.so/ReadIT-Letter-IT-85b693f175a74991a363f779a6d3c032)
 # Frontend
 - [Naver FE News](https://github.com/naver/fe-news)
+
+- [실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 ## JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
@@ -59,12 +69,21 @@
 
   - [Saga Pattern과 redux-saga](https://so-so.dev/pattern/saga-pattern-with-redux-saga/?fbclid=IwAR1wQKQ1f7Fa-0CWwcTYNnqszOQI9TWlZDA6_B--Wv6YBXNzTsMlpZsDO98)
 
+  - [redux-saga 가 해결하는 문제](https://min9nim.github.io/2020/04/redux-saga/)
+
+  - [Component 분리의 미학](https://vallista.kr/2020/03/29/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
+    - 도메인 중심의 컴포넌트 -> Atomic Design -> Container/Presentational 분리 -> Custom hooks를 데이터 관리 까지 컴포넌트를 나눌 때 고민하는 부분이 많이 담겨 있다
+
+  - [useCallback과 React.Memo을 통한 렌더링 최적화](https://velog.io/@yejinh/useCallback%EA%B3%BC-React.Memo%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94)
+    - useCallback을 사용함으로서 렌더링 최적화가 어떻게 일어나는지 잘 설명되어 있다
+
 ### Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
 
   - [Express를 활용한 간단한 웹서버 만들기](https://eomtttttt-develop.tistory.com/237)
 
 ## TypeScript
+  - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 ## CSS
 - [선택자 비교 (공백, > // +, ~)](https://eomtttttt-develop.tistory.com/212)
 
