@@ -1,23 +1,22 @@
-## [Development References]()
-## [Network]()
-## [Frontend](https://github.com/eomttt/studies/tree/master/2020#frontend-1)
-## [JavaScript](https://github.com/eomttt/studies/tree/master/2020#javascript-1)
-  - ### [React](https://github.com/eomttt/studies/tree/master/2020#react-1)
-  - ### [Node](https://github.com/eomttt/studies/tree/master/2020#node-1)
-## [TypeScript](https://github.com/eomttt/studies#typescript-1)
-## [HTML]()
-## [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
-## [Webpack]()
-## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
-## [Go Lang]()
-## [DevOps](https://github.com/eomttt/studies/tree/master/2020#devops-1)
-- ### [AWS]()
-- ### [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
-- ### [Docker]()
-- ### [Serverless]()
-- ### [Git]()
-## [Regex]()
-## [Shell script]()
+- [Development References](https://github.com/eomttt/studies#development-references-1)
+- [Network](https://github.com/eomttt/studies#network-1)
+- [Frontend](https://github.com/eomttt/studies/tree/master/2020#frontend-1)
+- [JavaScript](https://github.com/eomttt/studies/tree/master/2020#javascript-1)
+  - [React](https://github.com/eomttt/studies/tree/master/2020#react-1)
+  - [Node](https://github.com/eomttt/studies/tree/master/2020#node-1)
+- [TypeScript](https://github.com/eomttt/studies#typescript-1)
+- [HTML](https://github.com/eomttt/studies#html-1)
+- [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
+- [Webpack](https://github.com/eomttt/studies#webpack-1)
+- [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
+- [DevOps](https://github.com/eomttt/studies/tree/master/2020#devops-1)
+  - [AWS](https://github.com/eomttt/studies#aws-1)
+  - [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
+  - [Docker](https://github.com/eomttt/studies#docker-1)
+  - [Serverless](https://github.com/eomttt/studies#serverless-1)
+  - [Git](https://github.com/eomttt/studies#git-1)
+- [Regex](https://github.com/eomttt/studies#regex)
+- [Shell script](https://github.com/eomttt/studies#shell-script-1)
 
 
 # Development References
@@ -199,9 +198,9 @@
 
   - [How (and why) you should use TypeScript with Node and Express.](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
     - Node, Express 에 Typescript 적용, Front 단에서는 많이들 TypeScript를 적용하는 방법을 서술하는데 백단 (Node) 에서는 거의 없어서 정리해봄
-## HTML
+# HTML
 - [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
-## CSS
+# CSS
 - [선택자 비교 (공백, > // +, ~)](https://eomtttttt-develop.tistory.com/212)
 
 - [nth-child 란](https://eomtttttt-develop.tistory.com/213)
@@ -242,11 +241,6 @@
 
 ## Jenkins
 - [Jenkins port 변경](https://eomtttttt-develop.tistory.com/222)
-
-## Regex
-- [정규식 포기자를 위한 가장 쉬운 정규식 — 상](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-1-2d7448375c11)
-
-- [정규식 포기자를 위한 가장 쉬운 정규식 — 하](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%98-a4446854297e)
 ## Docker
 - [Docker를 소개합니다](https://deveric.tistory.com/m/101?category=387263)
 
@@ -258,5 +252,9 @@
 
 - [Git user switch](https://github.com/geongeorge/Git-User-Switch)
 
+# Regex
+- [정규식 포기자를 위한 가장 쉬운 정규식 — 상](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-1-2d7448375c11)
+
+- [정규식 포기자를 위한 가장 쉬운 정규식 — 하](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%98-a4446854297e)
 # Shell script
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
