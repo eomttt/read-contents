@@ -1,10 +1,11 @@
 ## [Development References]()
-
+## [Network]()
 ## [Frontend](https://github.com/eomttt/studies/tree/master/2020#frontend-1)
 ## [JavaScript](https://github.com/eomttt/studies/tree/master/2020#javascript-1)
   - ### [React](https://github.com/eomttt/studies/tree/master/2020#react-1)
   - ### [Node](https://github.com/eomttt/studies/tree/master/2020#node-1)
 ## [TypeScript](https://github.com/eomttt/studies#typescript-1)
+## [HTML]()
 ## [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
 ## [Webpack]()
 ## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
@@ -13,6 +14,8 @@
 - ### [AWS]()
 - ### [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
 - ### [Docker]()
+- ### [Serverless]()
+- ### [Git]()
 ## [Regex]()
 ## [Shell script]()
 
@@ -30,8 +33,6 @@
 
 - [개발 도서 관련 NOTION](https://www.notion.so/ReadIT-Letter-IT-85b693f175a74991a363f779a6d3c032)
 
-- [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
-
 - [객체지향 개발 5대 원칙 (SOLID)](https://velog.io/@lsb156/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C-5%EB%8C%80-%EC%9B%90%EC%B9%99-SOLID)
 
 - [Web developer roadmap](https://github.com/devJang/developer-roadmap)
@@ -43,6 +44,22 @@
 
 - [Lerna(🐉)로 모노레포 해보러나?](https://medium.com/jung-han/lerna-%EB%A1%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%ED%95%B4%EB%B3%B4%EB%9F%AC%EB%82%98-34c8e008106a)
   - 모노레포에 궁금한점이 있었는데 개념 설명으로는 충분한듯. 특히 Learna 를 사용하여 나누는데 facebook/react, babel 를 예로 들어주면서 대략적인 개념을 알려줌
+
+- [카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
+
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+  - 건축가들은 수천개의 건물을 보고, 거장들이 만든 건물에 대한 비평들을 연구하는데, 소프트웨어 개발자들은 직접 작성한 코드만 잘 알고, 역사적으로 위대한 프로금들을 연구하지 않는다는 문제의식이 있다. 나는 이에 대하여 거의 100프로 동의하게 되고 이 페이지는 유명한 오픈 소스 터플리케이션을 왜 이런 설계를 했는지 설명하고 있다.
+
+- [App ideas](https://github.com/florinpop17/app-ideas)
+  - 좋은 토이프로젝 아이디어를 가져올 수 있을듯
+
+- [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj#_=_)
+  - React maintainer 인 Dan Abramov 가 쓴 글을 번역한 글, 이전에 트렌디한 개발자 보다 하나에 대해서 깊게 아는 개발자가 더 중요하다는 글을 본적이 있는데, 비슷한 맥락 또한 나도 은근 가면 증후군이 있는것 같은데 자만심은 아니여도 자신감은 필요할듯
+
+# Network
+- [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
+
+- [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 # Frontend
 - [Naver FE News](https://github.com/naver/fe-news)
 
@@ -59,6 +76,11 @@
 - [9 Web Components UI Libraries You Should Know in 2020](https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103)
 
 - [FrontEnd interview handbook](https://yangshun.github.io/front-end-interview-handbook/kr/html-questions/)
+
+- [The A-Z of Web Development](https://dev.to/desoga/the-a-z-of-web-development-5ge6)
+  - A-Z 로 시작하는 단어들로 Web development 개념을 정리
+
+- [이직하려는 친구에게 보내는 프론트엔드 개발 면접 질문](https://joshua1988.github.io/web-development/interview/frontend-questions/)
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
@@ -97,6 +119,18 @@
 - [[JavaScript] 요소의 절대좌표 상대좌표 구하기](https://mommoo.tistory.com/85)
 
 - [Clean Up Your Code by Removing ‘if-else’ Statements](https://medium.com/fedever/clean-up-your-code-by-removing-if-else-statements-31102fe3b083)
+
+- [테스트: TOAST UI](https://ui.toast.com/fe-guide/ko_TEST/)
+
+- [2020년 이후 JavaScript의 동향](https://d2.naver.com/helloworld/8257914)
+
+- [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
+
+- [Open base js](https://openbase.io/)
+
+- [Javascript algorithms and data structure](https://github.com/trekhleb/javascript-algorithms)
+
+- [Babel7과 corejs3 설정으로 전역 오염 없는 폴리필 사용하기](https://tech.kakao.com/2020/12/01/frontend-growth-02/)
 
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
@@ -140,10 +174,21 @@
 
   - [5 Recommended Tools for Optimizing Performance in ReactJS](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d)
 
+  - [react-use](https://github.com/streamich/react-use?fbclid=IwAR0dAgNKsxJAbxoU8VhJ87esulCxP2AyVoxQb_R01O6nM0B44MPyeYfGvEA)
+
+  - [ReactJS Roadmap 🗺 For Developers](https://dev.to/theme_selection/reactjs-roadmap-for-developers-2824?fbclid=IwAR2nRMWvQ9hPAkAOUYIrz6sb0EAU6tZvCX6TMYTdxm5ZW3a0MIcYP6Z7oOw)
+
+  - [React 톺아보기](https://goidle.github.io/react/in-depth-react-preview/)
+    - 전반적인 React 설명(?) 어떻게 React 가 동작하는지 나와있어서 재미있어 보임 리액트를 통해 프로젝트를 진행한 경험이 있고 동작 방식을 어렴풋이 이해하기는 하지만 여전히 리액트가 마법처럼 느껴지고 응용, 에러 디버깅 등에 어려움을 겪는 사람들을 위해 작성하였습니다.
+  
+  - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React#how-to-use-repo)
+
 ## Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
 
   - [Express를 활용한 간단한 웹서버 만들기](https://eomtttttt-develop.tistory.com/237)
+
+  - [로우레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 
 # TypeScript
   - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
@@ -154,6 +199,8 @@
 
   - [How (and why) you should use TypeScript with Node and Express.](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
     - Node, Express 에 Typescript 적용, Front 단에서는 많이들 TypeScript를 적용하는 방법을 서술하는데 백단 (Node) 에서는 거의 없어서 정리해봄
+## HTML
+- [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
 ## CSS
 - [선택자 비교 (공백, > // +, ~)](https://eomtttttt-develop.tistory.com/212)
 
@@ -202,6 +249,14 @@
 - [정규식 포기자를 위한 가장 쉬운 정규식 — 하](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%98-a4446854297e)
 ## Docker
 - [Docker를 소개합니다](https://deveric.tistory.com/m/101?category=387263)
+
+## Serverless
+- [Serverless 프레임워크 사용해서 배포하기](https://velog.io/@jeffyoun/Serverless-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
+## Git
+- [Github Action 사용하여 React 앱 배포하기](https://velog.io/@loakick/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-S3%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+
+- [Git user switch](https://github.com/geongeorge/Git-User-Switch)
 
 # Shell script
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
