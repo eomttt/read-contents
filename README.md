@@ -8,6 +8,7 @@
 - ## [TypeScript](https://github.com/eomttt/studies#typescript-1)
 - ## [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
 
+- ## [Webpack]()
 - ## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
 
 - ## [Regex]()
@@ -15,6 +16,8 @@
 # [DevOps](https://github.com/eomttt/studies/tree/master/2020#devops-1)
 
 - ## [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
+
+- ## [Docker]()
 
 
 # Development References
@@ -29,10 +32,18 @@
   - JAVA 를 바탕으로 글이 써져있으나, 전반적인 웹에 대한 설명이라서 한번씩 생각날 때 읽으면 좋다
 
 - [개발 도서 관련 NOTION](https://www.notion.so/ReadIT-Letter-IT-85b693f175a74991a363f779a6d3c032)
+
+- [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
+
+- [객체지향 개발 5대 원칙 (SOLID)](https://velog.io/@lsb156/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C-5%EB%8C%80-%EC%9B%90%EC%B9%99-SOLID)
+
+- [Web developer roadmap](https://github.com/devJang/developer-roadmap)
 # Frontend
 - [Naver FE News](https://github.com/naver/fe-news)
 
 - [실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
+
+- [FE 기술 이야기](https://velog.io/@jay/SSR-CSR-101)
 ## JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
@@ -61,6 +72,8 @@
 
   - [root로 import 하기 (절대경로로 import)](https://eomtttttt-develop.tistory.com/231)
 
+  - [프로젝트에 module resolver 적용하기](https://medium.com/react-native-seoul/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-module-resolver-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-b28f607fd0bb)
+
   - [React JS interview questions](https://github.com/appear/reactjs-interview-questions-ko#1-what-is-reactjs)
 
   - [Redux 적용하기 (함수형, Class 형)](https://velog.io/@eomttt/Redux-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%ED%95%A8%EC%88%98%ED%98%95-Class-%ED%98%95)
@@ -76,6 +89,11 @@
 
   - [useCallback과 React.Memo을 통한 렌더링 최적화](https://velog.io/@yejinh/useCallback%EA%B3%BC-React.Memo%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94)
     - useCallback을 사용함으로서 렌더링 최적화가 어떻게 일어나는지 잘 설명되어 있다
+  
+  - [22 Amazing open source React projects](https://medium.mybridge.co/22-amazing-open-source-react-projects-cb8230ec719f)
+
+  - [리액트(React)는 왜 쓰는 건데⁉](https://velog.io/@wooder2050/%EB%A6%AC%EC%95%A1%ED%8A%B8React%EB%8A%94-%EC%99%9C-%EC%93%B0%EB%8A%94-%EA%B1%B4%EB%8D%B0)
+    - React 개념에 대한 간단한 정리
 
 ### Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
@@ -84,10 +102,21 @@
 
 ## TypeScript
   - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
+
+  - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
+
+  - [Typescript 기본 정리 시리즈](https://velog.io/@denmark-banana/TypeScript-%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85)
 ## CSS
 - [선택자 비교 (공백, > // +, ~)](https://eomtttttt-develop.tistory.com/212)
 
 - [nth-child 란](https://eomtttttt-develop.tistory.com/213)
+
+- [BEM 방식](https://nykim.work/15)
+
+## Webpack
+- [CRA 없이 React 프로젝트 생성](https://leehwarang.github.io/2019/08/20/react_setting.html)
+
+- [React 개발 환경을 구축하면서 배우는 웹팩(Webpack) 기초](https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Webpack-%EA%B8%B0%EC%B4%88)
 
 ## GraphQL
 - [How to GraphQL ](https://velog.io/@cadenzah/graphql-01-introduction)
@@ -114,4 +143,5 @@
 ## Jenkins
 - [Jenkins port 변경](https://eomtttttt-develop.tistory.com/222)
 
-
+## Docker
+- [Docker를 소개합니다](https://deveric.tistory.com/m/101?category=387263)
