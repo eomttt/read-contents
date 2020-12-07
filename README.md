@@ -1,25 +1,20 @@
-# [Development References]
+## [Development References]()
 
-# [Frontend](https://github.com/eomttt/studies/tree/master/2020#frontend-1)
-- ## [JavaScript](https://github.com/eomttt/studies/tree/master/2020#javascript-1)
-    - ### [React](https://github.com/eomttt/studies/tree/master/2020#react-1)
-    - ### [Node](https://github.com/eomttt/studies/tree/master/2020#node-1)
-
-- ## [TypeScript](https://github.com/eomttt/studies#typescript-1)
-- ## [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
-
-- ## [Webpack]()
-- ## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
-
-# [DevOps](https://github.com/eomttt/studies/tree/master/2020#devops-1)
-
-- ## [AWS]()
-- ## [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
-
-- ## [Docker]()
-
-- ## [Regex]()
-- ## [Shell script]()
+## [Frontend](https://github.com/eomttt/studies/tree/master/2020#frontend-1)
+## [JavaScript](https://github.com/eomttt/studies/tree/master/2020#javascript-1)
+  - ### [React](https://github.com/eomttt/studies/tree/master/2020#react-1)
+  - ### [Node](https://github.com/eomttt/studies/tree/master/2020#node-1)
+## [TypeScript](https://github.com/eomttt/studies#typescript-1)
+## [CSS](https://github.com/eomttt/studies/tree/master/2020#css-1)
+## [Webpack]()
+## [GraphQL](https://github.com/eomttt/studies/tree/master/2020#graphql-1)
+## [Go Lang]()
+## [DevOps](https://github.com/eomttt/studies/tree/master/2020#devops-1)
+- ### [AWS]()
+- ### [Jenkins](https://github.com/eomttt/studies/tree/master/2020#jenkins-1)
+- ### [Docker]()
+## [Regex]()
+## [Shell script]()
 
 
 # Development References
@@ -64,7 +59,7 @@
 - [9 Web Components UI Libraries You Should Know in 2020](https://blog.bitsrc.io/9-web-component-ui-libraries-you-should-know-in-2019-9d4476c3f103)
 
 - [FrontEnd interview handbook](https://yangshun.github.io/front-end-interview-handbook/kr/html-questions/)
-## JavaScript
+# JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
 - [Sort 오름차순, 내림차순](https://eomtttttt-develop.tistory.com/221)
@@ -101,7 +96,9 @@
 
 - [[JavaScript] 요소의 절대좌표 상대좌표 구하기](https://mommoo.tistory.com/85)
 
-### React
+- [Clean Up Your Code by Removing ‘if-else’ Statements](https://medium.com/fedever/clean-up-your-code-by-removing-if-else-statements-31102fe3b083)
+
+## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
   - [React + Firebase Realtime Database](https://eomtttttt-develop.tistory.com/219)
@@ -143,12 +140,12 @@
 
   - [5 Recommended Tools for Optimizing Performance in ReactJS](https://blog.bitsrc.io/5-recommended-tools-for-optimizing-performance-in-reactjs-29eb2a3ec46d)
 
-### Node
+## Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
 
   - [Express를 활용한 간단한 웹서버 만들기](https://eomtttttt-develop.tistory.com/237)
 
-## TypeScript
+# TypeScript
   - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
   - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
@@ -166,14 +163,16 @@
 
 - [CSS Fundamentals: Positioning](https://itnext.io/css-fundamentals-positioning-b0d60a0fdd3b)
 
-## Webpack
+- [CSS Flex(Flexible Box) 완벽 가이드](https://heropy.blog/2018/11/24/css-flexible-box/)
+
+# Webpack
 - [CRA 없이 React 프로젝트 생성](https://leehwarang.github.io/2019/08/20/react_setting.html)
 
 - [React 개발 환경을 구축하면서 배우는 웹팩(Webpack) 기초](https://velog.io/@jeff0720/React-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9D%84-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-Webpack-%EA%B8%B0%EC%B4%88)
 
 - [Webpack handbook](https://joshua1988.github.io/webpack-guide/)
 
-## GraphQL
+# GraphQL
 - [How to GraphQL ](https://velog.io/@cadenzah/graphql-01-introduction)
 
 - [GraphQL - Node Tutorial](https://velog.io/@cadenzah/graphql-node-01-introduction)
