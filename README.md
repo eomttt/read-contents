@@ -82,6 +82,9 @@
   - A-Z 로 시작하는 단어들로 Web development 개념을 정리
 
 - [이직하려는 친구에게 보내는 프론트엔드 개발 면접 질문](https://joshua1988.github.io/web-development/interview/frontend-questions/)
+
+- [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
+  - JS, CSS, HTML 기초 수업을 공개했다. 각 강좌마다 퀴즈와 과제, 비디오 등이 포함되어 있어 학습을 돕는다.
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
@@ -132,6 +135,8 @@
 - [Javascript algorithms and data structure](https://github.com/trekhleb/javascript-algorithms)
 
 - [Babel7과 corejs3 설정으로 전역 오염 없는 폴리필 사용하기](https://tech.kakao.com/2020/12/01/frontend-growth-02/)
+
+- [모던 JavaScript 튜토리얼](https://ko.javascript.info/)
 
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
