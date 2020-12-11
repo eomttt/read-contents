@@ -87,8 +87,10 @@
   - JS, CSS, HTML 기초 수업을 공개했다. 각 강좌마다 퀴즈와 과제, 비디오 등이 포함되어 있어 학습을 돕는다.
 
 - [Rome](https://github.com/rome/tools)
+  - Rome은 JavaScript 및 TypeScript 개발 시 사용하는 통합 툴 체인(CLI나 VSCode 익스텐션, 미래에는 테스트 목적으로 API를 통해 사용할 수 있는)이다. 번들링, 컴파일, 문서 생성, 포맷팅, 린팅, 압축(minification), 테스트, 타입 검사 등의 모든 작업을 하나의 CLI 아래에서 수행할 수 있는 “올인원” 솔루션을 지향하고 있습니다.
 
 - [Deno](https://github.com/denoland/deno)
+  - Deno는 Node와 비슷한 문제를 푸는 JavaScript, 그리고 TypeScript를 실행하기 위한 새로운 Command-line Runtime입니다.
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
