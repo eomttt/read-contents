@@ -58,6 +58,9 @@
 - [2018년, 내가 모르는 기술들](https://velog.io/@chris/%EB%B2%88%EC%97%AD-2018%EB%85%84-%EB%82%B4%EA%B0%80-%EB%AA%A8%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%88%A0%EB%93%A4-rnjr3h8mgj#_=_)
   - React maintainer 인 Dan Abramov 가 쓴 글을 번역한 글, 이전에 트렌디한 개발자 보다 하나에 대해서 깊게 아는 개발자가 더 중요하다는 글을 본적이 있는데, 비슷한 맥락 또한 나도 은근 가면 증후군이 있는것 같은데 자만심은 아니여도 자신감은 필요할듯
 
+- [Realworld example](https://github.com/gothinkster/realworld)
+  - 단순한 게시판, 카운터가 아닌 여러가지 스택으로 실제 서비스 정도의 예제를 보여주는 Repo. 어떤 프로젝트를 진행할 때에 참고하면 좋을듯, 또는 내가 해본 프로젝트 스택을 올려볼 수도...
+
 # Network
 - [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 
