@@ -5,6 +5,7 @@
 - [Frontend](https://github.com/eomttt/studies#frontend)
 - [JavaScript](https://github.com/eomttt/studies#javascript)
   - [React](https://github.com/eomttt/studies#react)
+  - [React Native]()
   - [Node](https://github.com/eomttt/studies#node)
 - [TypeScript](https://github.com/eomttt/studies#typescript)
 - [HTML](https://github.com/eomttt/studies#html)
@@ -194,6 +195,9 @@
     - 전반적인 React 설명(?) 어떻게 React 가 동작하는지 나와있어서 재미있어 보임 리액트를 통해 프로젝트를 진행한 경험이 있고 동작 방식을 어렴풋이 이해하기는 하지만 여전히 리액트가 마법처럼 느껴지고 응용, 에러 디버깅 등에 어려움을 겪는 사람들을 위해 작성하였습니다.
   
   - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React#how-to-use-repo)
+
+## React Native
+  - [React-native Animation](https://medium.com/@marong61/react-native-animation-kor-%ED%95%9C%EA%B8%80-e269755af419)
 
 ## Node
   - [Node 서버에서 이미지 s3로 업로드](https://eomtttttt-develop.tistory.com/220)
