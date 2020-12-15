@@ -5,7 +5,7 @@
 - [Frontend](https://github.com/eomttt/studies#frontend)
 - [JavaScript](https://github.com/eomttt/studies#javascript)
   - [React](https://github.com/eomttt/studies#react)
-  - [React Native]()
+  - [React Native](https://github.com/eomttt/studies#react-native)
   - [Node](https://github.com/eomttt/studies#node)
 - [TypeScript](https://github.com/eomttt/studies#typescript)
 - [HTML](https://github.com/eomttt/studies#html)
