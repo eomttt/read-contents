@@ -218,6 +218,9 @@
 
   - [How (and why) you should use TypeScript with Node and Express.](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
     - Node, Express 에 Typescript 적용, Front 단에서는 많이들 TypeScript를 적용하는 방법을 서술하는데 백단 (Node) 에서는 거의 없어서 정리해봄
+  
+  - [타입스크립트와 함께 컴포넌트를 단계 별로 추상화해보자](https://evan-moon.github.io/2020/11/28/making-your-components-extensible-with-typescript/?fbclid=IwAR3sgc6y_Hd83yIZC2JFnoQCFERIZ87Yk1hulk9hum_pVDVsJRuy82qWD0g#%EC%9D%B4%EC%A0%9C%EB%8A%94-%EC%A0%95%EB%A7%90-%EC%B6%94%EC%83%81%ED%99%94-%EB%BF%90%EC%9D%B4%EC%95%BC)
+    - 타입스크립트로 추상화된 컴포넌트를 만드는것이 상당히 인상적임
 # HTML
 - [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
 # CSS
