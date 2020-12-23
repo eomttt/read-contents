@@ -199,6 +199,9 @@
   
   - [30 Days Of React](https://github.com/Asabeneh/30-Days-Of-React#how-to-use-repo)
 
+  - [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616)
+    - 이번년도 관심있게 본 기술, 내가 생각한 바를 이루어준것 같다. contextAPI 는 뭔가 성능적으로 잡기 힘든것 같고, redux, mobx 는 뭔가 복잡하다. 특히 redux, store, action 이를 이해하는데 조금 힘들었던것 같다. recoil 기대가 된다. 추후 concurrent mode 역시
+
 ## React Native
   - [React-native Animation](https://medium.com/@marong61/react-native-animation-kor-%ED%95%9C%EA%B8%80-e269755af419)
 
