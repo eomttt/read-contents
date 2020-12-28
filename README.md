@@ -61,6 +61,9 @@
 - [Realworld example](https://github.com/gothinkster/realworld)
   - 단순한 게시판, 카운터가 아닌 여러가지 스택으로 실제 서비스 정도의 예제를 보여주는 Repo. 어떤 프로젝트를 진행할 때에 참고하면 좋을듯, 또는 내가 해본 프로젝트 스택을 올려볼 수도...
 
+- [what happens when](https://github.com/SantonyChoi/what-happens-when-KR)
+  - 이 저장소는 고전적인 인터뷰 질문인 "당신의 브라우저 주소창에 google.com을 치고 엔터를 누르면 어떤 일이 생길까요?"에 대해 답해보고자 합니다.
+
 # Network
 - [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 
