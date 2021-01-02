@@ -1,7 +1,8 @@
 # Eomttt TIL
 
 - [Development References](https://github.com/eomttt/studies#development-references)
-- [Network](https://github.com/eomttt/studies#network)
+- [CS](https://github.com/eomttt/studies#cs)
+  - [Network](https://github.com/eomttt/studies#network)
 - [Frontend](https://github.com/eomttt/studies#frontend)
 - [JavaScript](https://github.com/eomttt/studies#javascript)
   - [React](https://github.com/eomttt/studies#react)
@@ -67,7 +68,12 @@
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
   - 개발자가 도전적으로 해볼 만한 프로젝트, 추후에 text web browser 를 만들어보면 재미있을듯 
 
-# Network
+
+# CS
+
+- [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
+  - 컴퓨터 구조론 학습을 위한 레포. 가끔씩 한번씩 보면 좋을듯. 역시 기본이 탄탄해야 한다는 생각
+## Network
 - [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 
 - [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
