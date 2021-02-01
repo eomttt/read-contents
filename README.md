@@ -107,6 +107,9 @@
 
 - [Deno](https://github.com/denoland/deno)
   - Deno는 Node와 비슷한 문제를 푸는 JavaScript, 그리고 TypeScript를 실행하기 위한 새로운 Command-line Runtime입니다.
+
+- [한글 초성 검색도 지원하는 퍼지 문자열 검색](https://taegon.kim/archives/9919)
+  - 간단하게 정규표현식으로 퍼지 문자열 검색을 하게끔 만들어준다.
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
