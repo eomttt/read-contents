@@ -66,7 +66,10 @@
   - 이 저장소는 고전적인 인터뷰 질문인 "당신의 브라우저 주소창에 google.com을 치고 엔터를 누르면 어떤 일이 생길까요?"에 대해 답해보고자 합니다.
 
 - [More challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
-  - 개발자가 도전적으로 해볼 만한 프로젝트, 추후에 text web browser 를 만들어보면 재미있을듯 
+  - 개발자가 도전적으로 해볼 만한 프로젝트, 추후에 text web browser 를 만들어보면 재미있을듯
+
+- [기업 기술 블로그 모음](https://techblogposts.com/)
+  - 기업 기술 블로그 모음들, 하루에 하나정도 보면 좋을듯
 
 
 # CS
