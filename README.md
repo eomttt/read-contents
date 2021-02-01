@@ -113,6 +113,9 @@
 
 - [한글 초성 검색도 지원하는 퍼지 문자열 검색](https://taegon.kim/archives/9919)
   - 간단하게 정규표현식으로 퍼지 문자열 검색을 하게끔 만들어준다.
+
+- [Create App - 프론트엔드 빌드 설정 생성기](https://createapp.dev/webpack)
+  - 처음 앱을 빌드 할때 필요한 요소들을 추가해보고 테스트 해볼 수 있겠음
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
