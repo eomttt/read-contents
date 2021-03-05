@@ -251,6 +251,9 @@
     - 타입스크립트로 추상화된 컴포넌트를 만드는것이 상당히 인상적임
 # HTML
 - [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
+
+- [DOM 쉽게 이해하기!! 고척스카이돔 아닙니다](https://kingofbackend.tistory.com/25)
+  - 쉽게, 재미있게 DOM을 설명하고 있다.
 # CSS
 - [선택자 비교 (공백, > // +, ~)](https://eomtttttt-develop.tistory.com/212)
 
