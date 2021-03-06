@@ -80,6 +80,9 @@
 - [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 
 - [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+
+- [네트워크는 왜 이렇게 생긴걸까?](https://m.clien.net/service/board/lecture/15872844)
+  - 네트워크 핵심 개념을 쉽게 설명함
 # Frontend
 - [Naver FE News](https://github.com/naver/fe-news)
 
