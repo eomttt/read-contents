@@ -179,6 +179,9 @@
 - [Test your JavaScript skills Series' Articles](https://dev.to/coderslang/series/11099)
   - JS 기본기를 생각할때 간간히 풀면 좋은 문제
 
+- [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/#web-apis)
+  - JS 에 대한 기본적인 설명 그 외에도 두번째 시리즈로 (JavaScript's Memory Management Explained) 이것도 있다.
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
