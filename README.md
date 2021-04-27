@@ -288,6 +288,8 @@
 
 - [CSS Flex(Flexible Box) 완벽 가이드](https://heropy.blog/2018/11/24/css-flexible-box/)
 
+- [이번에야말로 CSS Flex를 익혀보자](https://studiomeal.com/archives/197)
+
 # Webpack
 - [CRA 없이 React 프로젝트 생성](https://leehwarang.github.io/2019/08/20/react_setting.html)
 
