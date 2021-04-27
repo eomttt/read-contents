@@ -10,6 +10,7 @@
   - [Node](https://github.com/eomttt/studies#node)
 - [TypeScript](https://github.com/eomttt/studies#typescript)
 - [Rust](https://github.com/eomttt/studies/#rust)
+- [Go](https://github.com/eomttt/studies/#go)
 - [HTML](https://github.com/eomttt/studies#html)
 - [CSS](https://github.com/eomttt/studies#css)
 - [Webpack](https://github.com/eomttt/studies#webpack)
@@ -266,6 +267,10 @@
 
 - [Microsoft Rust learn](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
     - Microsoft 제공한 rust 학습 자료
+
+# Go
+- [Microsoft Go learn](https://docs.microsoft.com/ko-kr/learn/paths/go-first-steps/)
+    - Microsft 제공한 go 학습 자료
 
 # HTML
 - [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
