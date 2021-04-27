@@ -264,6 +264,9 @@
 - [Rust Programming](https://velog.io/@peeeeeter_j/Rust-Programming-0)
     - Rust 공식문서를 보고 공부한 내용을 잘 정리해놓은 블로그 글
 
+- [Microsoft Rust learn](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
+    - Microsoft 제공한 rust 학습 자료
+
 # HTML
 - [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
 
