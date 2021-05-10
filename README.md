@@ -184,6 +184,9 @@
 - [JavaScript Event Loop And Call Stack Explained](https://felixgerschau.com/javascript-event-loop-call-stack/#web-apis)
   - JS 에 대한 기본적인 설명 그 외에도 두번째 시리즈로 (JavaScript's Memory Management Explained) 이것도 있다.
 
+- [JavaScript로 Shell Script 작성하기](https://github.com/google/zx)
+  - Shell script를 JavaScript로 작성가능하게끔 만드는 툴
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
