@@ -254,6 +254,9 @@
 
   - [로우레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 
+  - [Pkg](https://github.com/vercel/pkg)
+    - Next.js를 개발한 Vercel에서 개발한 도구로, 개발한 Node.js 패키지를 Node.js가 설치되지 않은 환경에서도 실행 가능한 파일로 만들어 준다.
+
 # TypeScript
   - [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
