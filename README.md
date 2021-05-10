@@ -185,7 +185,7 @@
   - JS 에 대한 기본적인 설명 그 외에도 두번째 시리즈로 (JavaScript's Memory Management Explained) 이것도 있다.
 
 - [JavaScript로 Shell Script 작성하기](https://github.com/google/zx)
-  - Shell script를 JavaScript로 작성가능하게끔 만드는 툴
+  - Shell Script를 JavaScript로 작성가능하게끔 만드는 툴
 
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
@@ -240,6 +240,9 @@
 
   - [Recoil - 또 다른 React 상태 관리 라이브러리?](https://ui.toast.com/weekly-pick/ko_20200616)
     - 이번년도 관심있게 본 기술, 내가 생각한 바를 이루어준것 같다. contextAPI 는 뭔가 성능적으로 잡기 힘든것 같고, redux, mobx 는 뭔가 복잡하다. 특히 redux, store, action 이를 이해하는데 조금 힘들었던것 같다. recoil 기대가 된다. 추후 concurrent mode 역시
+  
+  - [Debug Why React (Re-)Renders a Component](https://dev.to/mokkapps/debug-why-react-re-renders-a-component-3i8e)
+    - React render component 디버깅 방법, 컴포넌트 리렌더링 될때 하이라이트 하는 부분은 알고 있었는데, 실제로 DOM이 업데이트 되는 부분도 잡을수 있었다.
 
 ## React Native
   - [React-native Animation](https://medium.com/@marong61/react-native-animation-kor-%ED%95%9C%EA%B8%80-e269755af419)
