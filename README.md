@@ -74,6 +74,9 @@
 - [기업 기술 블로그 모음](https://techblogposts.com/)
   - 기업 기술 블로그 모음들, 하루에 하나정도 보면 좋을듯
 
+- [RN Java -> Kotlin, Object C -> Swift](https://levelup.gitconnected.com/powering-react-native-with-kotlin-swift-support-e5c1210a4e25)
+  - RN 은 프로젝트 세팅이 Java, Object C로 되어있는데 이를 Kotlin, Swift로 변환하는 포스팅
+
 
 # CS
 
