@@ -11,7 +11,7 @@
 - [TypeScript](https://github.com/eomttt/studies#typescript)
 - [Rust](https://github.com/eomttt/studies/#rust)
 - [Go](https://github.com/eomttt/studies/#go)
-- [Swift](https://github.com/eomttt/studies/#swfit)
+- [Swift](https://github.com/eomttt/studies/#swift)
 - [HTML](https://github.com/eomttt/studies#html)
 - [CSS](https://github.com/eomttt/studies#css)
 - [Webpack](https://github.com/eomttt/studies#webpack)
