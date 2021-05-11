@@ -123,8 +123,11 @@
   - 처음 앱을 빌드 할때 필요한 요소들을 추가해보고 테스트 해볼 수 있겠음
   - 지금 만들고 있는 [react-format](https://github.com/eomttt/react-format) 과 아주 연관이 있어 보임
 
-- [ESlint/Prettier](https://yohanpro.com/posts/code/eslint)
+- [ESLint/Prettier](https://yohanpro.com/posts/code/eslint)
   - ESlint 와 Prttier 를 같이 사용하는 경우가 많은데 정리가 확실한 포스팅이다!
+
+- [ESLint 설정 살펴보기](https://velog.io/@kyusung/eslint-config-2)
+  - ESLint 설정에 관하여...
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
