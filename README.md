@@ -194,6 +194,9 @@
 - [JavaScript로 Shell Script 작성하기](https://github.com/google/zx)
   - Shell Script를 JavaScript로 작성가능하게끔 만드는 툴
 
+- [JavaScript 클래스 상속](https://ko.javascript.info/class-inheritance)
+  - JavaScript 클래스에 대한 정리
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
