@@ -81,6 +81,9 @@
   - 나중에 데이터 설계하는 시점이 오게 되면 필요할것 같음
   - 현재는 다른 팀원이 하는 중 
 
+- [DOM event visualize](https://domevents.dev/)
+  - DOM 이벤트를 보기 쉽게 표현 
+
 
 # CS
 
