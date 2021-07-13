@@ -77,6 +77,13 @@
 - [RN Java -> Kotlin, Object C -> Swift](https://levelup.gitconnected.com/powering-react-native-with-kotlin-swift-support-e5c1210a4e25)
   - RN 은 프로젝트 세팅이 Java, Object C로 되어있는데 이를 Kotlin, Swift로 변환하는 포스팅
 
+- [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
+  - 나중에 데이터 설계하는 시점이 오게 되면 필요할것 같음
+  - 현재는 다른 팀원이 하는 중 
+
+- [DOM event visualize](https://domevents.dev/)
+  - DOM 이벤트를 보기 쉽게 표현 
+
 
 # CS
 
