@@ -82,6 +82,10 @@
 
 - [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
   - 컴퓨터 구조론 학습을 위한 레포. 가끔씩 한번씩 보면 좋을듯. 역시 기본이 탄탄해야 한다는 생각
+
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+  - 언젠가는 보겠지..... 알고리즘
+
 ## Network
 - [그림으로 배우는 http & network 요약](https://velog.io/@ljinsk3/01.-%EC%9B%B9%EA%B3%BC-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B8%B0%EB%B3%B8)
 
