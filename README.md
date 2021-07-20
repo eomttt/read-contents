@@ -208,6 +208,9 @@
 - [JavaScript로 Shell Script 작성하기](https://github.com/google/zx)
   - Shell Script를 JavaScript로 작성가능하게끔 만드는 툴
 
+- [JavaScript는 왜 이모양일까? 요약](https://rinae.dev/posts/how-javascript-works-summary)
+  - 나도 읽었던 책인데 조금 난해하다 느꼈다. 생각에 전환이 잘 안되서 그러한듯, 무튼 요약해주어서 참 감사함.
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
