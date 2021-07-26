@@ -126,7 +126,7 @@
 
 - [이직하려는 친구에게 보내는 프론트엔드 개발 면접 질문](https://joshua1988.github.io/web-development/interview/frontend-questions/)
 
-- [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Microsoft Web Development for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
   - JS, CSS, HTML 기초 수업을 공개했다. 각 강좌마다 퀴즈와 과제, 비디오 등이 포함되어 있어 학습을 돕는다.
 
 - [Rome](https://github.com/rome/tools)
