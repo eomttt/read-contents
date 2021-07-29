@@ -218,6 +218,10 @@
 - [Class에서 arrow function을 사용하지 말아야하는 이유](https://simsimjae.tistory.com/452)
   - Class 에서 method 로 arrow function 을 사용하면 안좋은 이유들 (정리가 잘되어있고 헷갈릴때마다 들어와서 보면 참 좋다)
 
+- [자바스크립트(JavaScript) 상속과 프로토타입 개념정리](https://shlee1353.github.io/2019/07/05/js-prototype-inheritance/)
+  - 헷갈리는 상속 및 프로토타입 개념
+  - 추가로 [상속할떄에 new Function() vs Object.create(Fucntion.prototype) 에 차이](https://velog.io/@jinyongp/%EC%83%81%EC%86%8D%EC%9D%84-%ED%95%A0-%EB%95%8C-Object.create%EA%B3%BC-new-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94)
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
