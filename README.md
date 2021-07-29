@@ -215,6 +215,9 @@
 - [JavaScript는 왜 이모양일까? 요약](https://rinae.dev/posts/how-javascript-works-summary)
   - 나도 읽었던 책인데 조금 난해하다 느꼈다. 생각에 전환이 잘 안되서 그러한듯, 무튼 요약해주어서 참 감사함.
 
+- [Class에서 arrow function을 사용하지 말아야하는 이유](https://simsimjae.tistory.com/452)
+  - Class 에서 method 로 arrow function 을 사용하면 안좋은 이유들 (정리가 잘되어있고 헷갈릴때마다 들어와서 보면 참 좋다)
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
