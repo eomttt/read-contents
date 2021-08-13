@@ -88,6 +88,9 @@
   - 실시간 커뮤니케이션이 가능하도록 만들어주는 오픈소스 플랫폼, 라이브채팅, 화상통화 같은거 만들기 쫌 힘들것 같은데 이거 이용하면 간단하게 만들 수 있을듯.
   - 이런거 갖고 토이프로젝트 하나하면 재미있을듯
 
+- [Journey of a web page 🛣️ - How browsers work](https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co)
+  - 사용자가 브라우저에서 웹 주소를 입력하고, 그 결과로 출력되는 사이에 일어나는 일들을 설명해주는 글
+
 
 # CS
 
