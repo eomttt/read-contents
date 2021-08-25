@@ -1,6 +1,9 @@
 # Today I Read or Learn
 
-## 20210825
+## 가볍게 읽은 글들 정리
+## 영감을 많이 받거나 유용한 글이라고 판단하면 README 로 옮김
+
+### 20210825
 [7 Tips for Empathetic Code Reviews](https://betterprogramming.pub/7-tips-for-empathetic-code-reviews-901e8b049a88)
   - 코드를 바로 읽지 마라 (테스트 코드 같이 상황을 파악한뒤 코드를 일고 내 생각을 적어라)
   - WTF 순간을 조심해라 (몇번 읽어도 이해가 안되는 코드, 이상한 테스트 코드들을 찾아서 어렵게 생각하지 말고 코멘트 해라)
