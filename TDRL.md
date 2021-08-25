@@ -29,3 +29,6 @@
     - 특정 텍스트 번역
   - poster
     - 비디오세어 썸네일
+
+[Building useReducer with logger](https://staleclosures.dev/building-usereducer-with-logger/)
+  - useReducer 를 이용하여 이전 상태, 다음 상태 group 하여 로그 남기기.
