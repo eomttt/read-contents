@@ -32,3 +32,8 @@
 
 [Building useReducer with logger](https://staleclosures.dev/building-usereducer-with-logger/)
   - useReducer 를 이용하여 이전 상태, 다음 상태 group 하여 로그 남기기.
+
+[트렁크 기반 개발 TBD](https://code-masterjung.tistory.com/73)
+  - Git branch 방법론으로 한 브렌치에서 여러명이 작업하는 방향
+  - 코드가 쉽게 공유되고 팀으로 움직일때에 많은 시간이 절약됨.
+  - 작은 단위에 (max 2 days) feature 정도는 허용됨.
