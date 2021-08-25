@@ -1,7 +1,7 @@
 # Today I Read or Learn
 
 ## 가볍게 읽은 글들 정리
-## 영감을 많이 받거나 유용한 글이라고 판단하면 README 로 옮김
+## 영감을 많이 받거나 유용한 글이라고 판단하면 [README](https://github.com/eomttt/studies/blob/master/README.md) 로 옮김
 
 ### 20210825
 [7 Tips for Empathetic Code Reviews](https://betterprogramming.pub/7-tips-for-empathetic-code-reviews-901e8b049a88)
