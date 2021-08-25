@@ -1,4 +1,6 @@
-# Eomttt TIL
+# BookMarks
+
+## [매일매일 인사이트 얻기](https://github.com/eomttt/studies/blob/master/TDRL.md)
 
 - [Development References](https://github.com/eomttt/studies#development-references)
 - [CS](https://github.com/eomttt/studies#cs)
