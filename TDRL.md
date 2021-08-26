@@ -3,6 +3,52 @@
 ## 가볍게 읽은 글들 정리
 ## 영감을 많이 받거나 유용한 글이라고 판단하면 [README](https://github.com/eomttt/studies) 로 옮김
 
+
+### 20210826
+[Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
+  - 로드맵 까지는 아니고 기본적으로 알아야할것들 설명
+  - HTML, CSS, JS
+  - Git, REST Api
+  - PWA, GraphQL, Cross-Platform Application
+
+[All CSS Properties You Need to Know to Build a Website](https://dev.to/domagojvidovic/all-css-properties-you-need-to-know-to-build-a-website-3dbb)
+  - 너무 기본적인 속성들만 나열한 글
+  - flex 에서
+    - justify-content: main axis
+    - align-items: cross aixs
+  
+[What’s New in TypeScript 4.4?](https://betterprogramming.pub/whats-new-in-typescript-4-4-e17d63b84b86)
+  - Control flow analysis of aliased conditional expressions
+    - const, readonly 변수에 if statement 에서 타입 가드
+  - Index signatures for symbols and template literal strings
+    - 객체 키에 다양한 하게 타입 정의 가능
+  - Defaulting to the unknown Type in Catch Variables
+    - try... catch 에서 catch error 타입 unknown으로 수정
+  - Exact Optional Property Types
+    - 객체에서 optional value 굳이 undefined 안해도되도록 수정
+
+[How Good Developers Repair Bad Codebases](https://levelup.gitconnected.com/how-good-developers-repair-bad-codebases-64cd1e3ec7de)
+  - 크게 영감을 받진 않았고 기본적인 내용들을 쉽게 서술해놓음
+    - 코드 룰을 정의하자
+    - 기술 부채의 주의하자
+    - 수선자 보다는 만드는 사람이 되자
+      - 코더 보다는 프로그래머가 되자 라는 생각은 예전 부터 하고 있었음
+      - 그러나 요즘 계속 코더가 되는듯한 느낌적인 느낌 (따라서 생각하면서 코딩하자!)
+
+[Skeleton for Node.js Apps written in TypeScript (with Setup Instructions for ESLint, Prettier, and Husky)](https://javascript.plainenglish.io/skeleton-for-node-js-apps-written-in-typescript-444fa1695b30)
+  - 프로젝트 세팅에 보일러플레이트 정리
+    - eslint
+    - prettier
+    - husky
+
+[1. 코로나 시대에서의 WebRTC](https://brunch.co.kr/@springboot/639)
+  - WebRTC 기술에 대하여
+  - 클라이언트에서 짧은 지연시간으로 오디오 및 동영상 제공 하는 곳에서 사용이 많이 됨
+    - 클럽하우스
+    - 구글 화상 Meet
+    - 하이퍼커넥트
+    - 게임 스트리밍
+
 ### 20210825
 [7 Tips for Empathetic Code Reviews](https://betterprogramming.pub/7-tips-for-empathetic-code-reviews-901e8b049a88)
   - 코드를 바로 읽지 마라 (테스트 코드 같이 상황을 파악한뒤 코드를 일고 내 생각을 적어라)
