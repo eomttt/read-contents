@@ -3,6 +3,7 @@
 ## 가볍게 읽은 글들 정리
 ## 영감을 많이 받거나 유용한 글이라고 판단하면 [README](https://github.com/eomttt/studies) 로 옮김
 
+### 20210827
 
 ### 20210826
 [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)

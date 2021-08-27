@@ -227,6 +227,13 @@
   - 헷갈리는 상속 및 프로토타입 개념
   - 추가로 [상속할떄에 new Function() vs Object.create(Fucntion.prototype) 에 차이](https://velog.io/@jinyongp/%EC%83%81%EC%86%8D%EC%9D%84-%ED%95%A0-%EB%95%8C-Object.create%EA%B3%BC-new-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%8A%94)
 
+- [Vanilla Javascript로 웹 컴포넌트 만들기](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component)
+  - 다음과 같이 현대 모던 웹 개발 시스템들을 바닐라 자바스크립트로 만드는 글, 읽어보고 직접 따라해보면서 현재 모던 웹 개발 시스템들이 어떻게 이루어져있는지 이해 할 수 있음
+      - 바닐라 자바스크립트로 웹 컴포넌트 만들기
+      - 바닐라 자바스크립트로 상태 관리 시스템 만들기
+      - 바닐라 자바스크립트로 가상돔 만들기
+      - 바닐라 자바스크립트로 React UseState hook 만들기
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
