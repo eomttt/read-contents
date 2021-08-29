@@ -3,6 +3,22 @@
 ## 가볍게 읽은 글들 정리
 ## 영감을 많이 받거나 유용한 글이라고 판단하면 [README](https://github.com/eomttt/studies) 로 옮김
 
+### 20210829
+[What You Actually Need To Become A Real Full Stack Developer](https://medium.com/madhash/what-you-actually-need-to-become-a-real-full-stack-developer-66a7a9f8f2da)
+  - 풀스택 개발자라는 것도 사실 크게 관심없고, 믿지 않지만 (한분야의 스페셜 리스트가 되는것이 더 좋음)
+  - 견문을 넓히기 위해 어떤것들이 필요한지 보면 좋음
+  - Starting With The Basics: Cloud Computing
+  - The Code Stuff: HTML5, CSS3, and JavaScript
+  - Cloud-Native Applications: AWS, Google Cloud, and Azure
+  - Cloud Applications with Node.js and React
+  - Containers, Kubernetes and OpenShift
+  - Python Basics for Data Science
+  - Django Application Development with SQL and Databases
+  - Microservices, Serverless, OpenShift
+
+[외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle/)
+  - 사례로 보는 제어의 역전 (DIP(Dependency Inversion Principle))
+
 ### 20210827
 [“overREACTing”](https://tweetsbyceleste.medium.com/overreacting-976f2423552a)
   - 리액트에 대하여 너무 크게 생각하고 있었지만 리액트는 단순히 UI 라이브러리이다!
