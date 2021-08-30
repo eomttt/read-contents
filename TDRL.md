@@ -19,6 +19,21 @@
 [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle/)
   - 사례로 보는 제어의 역전 (DIP(Dependency Inversion Principle))
 
+[Design Patterns in JavaScript](https://dev.to/zeeshanhshaheen/design-patterns-in-javascript-1pgm)
+  - Creation: 생성 패턴은 인스턴스를 만드는 절차를 추상화하는 패턴
+    - Factory Method: 조건에 따른 객체 생성을 팩토리 클래스로 위임하여, 팩토리 클래스에서 객체를 생성하는 패턴
+    - Abstract Factory: 서로 관련이 있는 객체들을 통째로 묶어서 팩토리 클래스로 만들고, 이들 팩토리를 조건에 따라 생성하도록 다시 팩토리를 만들어서 객체를 생성하는 패턴
+    - Builder: 생성자에 들어갈 매개 변수가 많든 적든 차례차례 매개 변수를 받아들이고 모든 매개 변수를 받은 뒤에 이 변수들을 통합해서 한번에 사용하는 패턴
+    - Prototype: Original 객체를 새로운 객체에 복사하여 우리의 필요에 따라 수정하는 메커니즘을 제공하는 패턴
+    - Singleton: 인스턴스가 한개만 존재하도록 하는 패턴
+  - Structure: 구조 패턴은 더 큰 구조를 형성하기 위해 어떻게 클래스와 객체를 합성하는가와 관련된 패턴
+    - Adapter: 한 클래스의 인터페이스를 다른 클래스에서 사용하고자 할때에 다른 클래스에서 사용 가능하도록 호환성을 제공해주는 패턴
+    - Bridge: '기능 클래스 계층'과 '구현 클래스 계층'을 분리하는 패턴
+    - Decorator: 주어진 상황 및 용도에 따라 어떤 객체에 책임(기능)을 동적으로 추가하는 패턴
+    - Facade: 서브시스템을 더 쉽게 사용할 수 있도록 higher-level 인터페이스를 정의하고, 제공하는 패턴
+    - Flyweight: '공유(Sharing)'를 통하여 대량의 객체들을 효과적으로 지원하는 패턴
+    - Proxy: 어떤 다른 객체로 접근하는 것을 통제하기 위해서 그 객체의 대리자(surrogate)나 자리표시자(placeholder)의 역할을 하는 객체를 제공하는 패턴
+
 ### 20210827
 [“overREACTing”](https://tweetsbyceleste.medium.com/overreacting-976f2423552a)
   - 리액트에 대하여 너무 크게 생각하고 있었지만 리액트는 단순히 UI 라이브러리이다!
