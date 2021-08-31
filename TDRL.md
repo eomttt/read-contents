@@ -3,6 +3,34 @@
 ## 가볍게 읽은 글들 정리
 ## 영감을 많이 받거나 유용한 글이라고 판단하면 [README](https://github.com/eomttt/studies) 로 옮김
 
+### 20210831
+[드디어 Internet Explorer가 은퇴를 합니다](https://teamdable.github.io/techblog/IE-Retirement)
+  - 사실 IE 크로스 브라우징 대응을 빡세게 해보진 않았음.
+  - 웹 개발에서 IE 대응을 할때가 한번 있었는데 그마저도 IE7 이상이여서 그닥 flex 정도만?
+  - 무튼 이제 크롬 통합 시대가 오는데 제 2의 IE 시대인가 싶기도 한데 다른 브라우저들도 테스트 한다는 글을 보긴해서 앞으로가 기대가 됨
+
+[Probot - 워크플로우 자동화 및 개선을 위한 Github 앱 개발용 프레임워크](https://probot.github.io/)
+  - GitHub이 이런 것도 해주면 좋겠다" 라는 걸 가능하게 해주는 도구
+  - Node.js + TypeScript 로 GitHub Apps 개발
+
+[Stop Using Atomic Design Pattern](https://jbee.io/react/stop-using-atomic-design/)
+  - 상당부분 동의하는글
+  - 실제로 아토믹 디자인을 적용하다 보면 이것이 원자인지 분자인지 유기체인지 애매할때가 많음
+  - 이런것들을 빡세게 지켜나가기 위해 시간 소비도 상당함
+  - 적절하게 상황에 맞는 컴포넌트를 상황에 맞게 그룹핑 하는것이 더 효율적임
+  - 흐음... 그리고 정말 재사용 가능한 컴포넌트들이 있긴 한가에 대한 의문도 들긴함
+  - 재사용 가능한 컴포넌트가 되려면 디자인시스템이 정말 잘 되어 있어야할것 같음 (토스 처럼)
+  -  변경에 유연하게 대응하는 코드를 작성하도록 늘 주의해야겠다.
+
+[5 Things to do before making the build for Production. (React JS)](https://dev.to/atulbhattsystem32/5-things-to-do-before-making-the-build-for-production-react-js-j8b)
+  - 상당히 기본적인것들
+  1. 로그 지우기
+  2. 주석 지우기
+  3. 사용하지 않는 라이브러리 지우기
+  4. 사용하지 않는 파일 지우기
+    - [depcheck](https://www.npmjs.com/package/depcheck)
+    - [unimported](https://www.npmjs.com/package/unimported)
+  5. 로컬 환경에서 빌드해보기
 ### 20210829
 [What You Actually Need To Become A Real Full Stack Developer](https://medium.com/madhash/what-you-actually-need-to-become-a-real-full-stack-developer-66a7a9f8f2da)
   - 풀스택 개발자라는 것도 사실 크게 관심없고, 믿지 않지만 (한분야의 스페셜 리스트가 되는것이 더 좋음)
@@ -29,10 +57,23 @@
   - Structure: 구조 패턴은 더 큰 구조를 형성하기 위해 어떻게 클래스와 객체를 합성하는가와 관련된 패턴
     - Adapter: 한 클래스의 인터페이스를 다른 클래스에서 사용하고자 할때에 다른 클래스에서 사용 가능하도록 호환성을 제공해주는 패턴
     - Bridge: '기능 클래스 계층'과 '구현 클래스 계층'을 분리하는 패턴
+    - Composite: 단일 객체든 객체들의 집합이든 같은 방법으로 취급하는 패턴 (파일과 디렉토리)
     - Decorator: 주어진 상황 및 용도에 따라 어떤 객체에 책임(기능)을 동적으로 추가하는 패턴
-    - Facade: 서브시스템을 더 쉽게 사용할 수 있도록 higher-level 인터페이스를 정의하고, 제공하는 패턴
+    - Facade: 여러 서브시스템을 간략하게 사용할 수 있게 해주는 패턴
     - Flyweight: '공유(Sharing)'를 통하여 대량의 객체들을 효과적으로 지원하는 패턴
     - Proxy: 어떤 다른 객체로 접근하는 것을 통제하기 위해서 그 객체의 대리자(surrogate)나 자리표시자(placeholder)의 역할을 하는 객체를 제공하는 패턴
+  - Behavioral: 객체나 클래스 사이의 알고리즘이나 책임 분배에 관련된 패턴
+    - Chain of Responsibility: 클라이언트의 요청을 처리하기 위해 객체를 체인 형태로 전달하여 결합력을 낮추기 위한 패턴 (거스름 반환!)
+    - Command: 커맨드 패턴은 특정 객체에 대한 커맨드를 객체화하여 이 커맨드 객체를 필요에 따라 처리하는 패턴
+    - Iterator: 컬렉션 구현 방법을 노출시키지 않으면서도 그 집합체 안에 들어있는 모든 항목에 접근할 수 있는 방법을 제공하는 패턴
+    - Mediator: 클래스 간의 상호작용을 하나의 클래스에 위임하여 처리하는 패턴 (비행기 관제탑 같은 역할)
+    - Memento: 객체의 상태 정보를 저장하고 사용자의 필요에 의하여 원하는 시점의 데이터를 복원할 수 있는 패턴
+    - Observer: 어떤 객체의 상태가 변할 때 그와 연관된 객체 들에게 알림을 보내는 패턴
+    - Visitor: 실제 로직을 가지고 있는 객체(Visitor)가 로직을 적용할 객체(Element)를 방문하면서 실행하는 패턴
+      - 장바구니에 각각에 아이템들을 담을 때에 장바구니 가격 계산
+    - Strategy: 클라이언트가 전략을 생성해 전략을 실행할 컨텍스트에게 주입하는 패턴
+    - State:
+    - Template Method:
 
 ### 20210827
 [“overREACTing”](https://tweetsbyceleste.medium.com/overreacting-976f2423552a)
