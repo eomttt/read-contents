@@ -156,6 +156,9 @@
 - [ESLint 설정 살펴보기](https://velog.io/@kyusung/eslint-config-2)
   - ESLint 설정에 관하여...
 
+- [ESLint + Prettier + React(CRA) + TypeScript + AirBnB 설정하기](https://yeonhapark.github.io/posts/configure-eslint-with-typescript-react/)
+  - 정답이 늘 없는 eslint pretter typescript aribnb 설정
+
 - [Clean Architecture on Frontend](https://dev.to/bespoyasov/clean-architecture-on-frontend-4311)
   ![](https://res.cloudinary.com/practicaldev/image/fetch/s--C20i-QC5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e6dnsn2z05yulf4t5qls.png)
 
