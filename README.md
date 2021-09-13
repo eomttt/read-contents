@@ -93,6 +93,9 @@
 - [Journey of a web page 🛣️ - How browsers work](https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co)
   - 사용자가 브라우저에서 웹 주소를 입력하고, 그 결과로 출력되는 사이에 일어나는 일들을 설명해주는 글
 
+- [Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
+  - 틈틈히 보면 좋을 기초적인 것들
+
 
 # CS
 
@@ -393,7 +396,10 @@
 - [GraphQL 로 영화 정보 가져오기](https://velog.io/@eomttt/GraphQL-%EB%A1%9C-%EC%98%81%ED%99%94-%EC%A0%95%EB%B3%B4-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 
 # DevOps
-[zero](https://getzero.dev/)
+- [Knowre 데브옵스 커리큘럼](https://github.com/Knowre-Dev/DevOpsCurriculum)
+  - 시간날때 하나씩 보면 좋은 주제들
+
+- [zero](https://getzero.dev/)
   - SaaS 개발을 위한 기초 인프라를 한번에 셋업해주는 오픈소스
     - AWS 토큰만 입력하면 전체 설정 자동 진행
     - 안정성 : 멀티 AZ , AWS ELB + Nginx, Terraform
@@ -425,7 +431,7 @@
     - Kratos 와 Oathkeeper를 이용한 사용자 관리 기능 지원 (예제 로그인/가입 플로우를 스타일링만 하면 됨)
     - Gastby 를 이용한 Static Site 예제로 쉽게 랜딩 페이지 생성 가능. CI 연동 지원
 
-[데브옵스의 확장 모델 – 깃옵스(GitOps) 이해하기](https://www.s-core.co.kr/insight/view/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EC%9D%98-%ED%99%95%EC%9E%A5-%EB%AA%A8%EB%8D%B8-%EA%B9%83%EC%98%B5%EC%8A%A4gitops-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2/)
+- [데브옵스의 확장 모델 – 깃옵스(GitOps) 이해하기](https://www.s-core.co.kr/insight/view/%EB%8D%B0%EB%B8%8C%EC%98%B5%EC%8A%A4%EC%9D%98-%ED%99%95%EC%9E%A5-%EB%AA%A8%EB%8D%B8-%EA%B9%83%EC%98%B5%EC%8A%A4gitops-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2/)
   - 기존에 데브옵스에 대하여 잘 몰랐기 때문에 기존과 다른점이 무엇인지 정확하게 파악할 수 없지만 깃옵스의 특징은 다음과 같음
   - 애플리케이션의 배포와 운영에 관련된 모든 요소를 코드화 하여 깃(Git)에서 관리(Ops)하는 것이 깃옵스의 핵심
   - 깃옵스의 핵심 아이디어는 다음과 같다.
