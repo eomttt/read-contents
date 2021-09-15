@@ -381,6 +381,9 @@
 
 - [Webpack handbook](https://joshua1988.github.io/webpack-guide/)
 
+- [Webpack Academy #0: What is webpack and why use it?](https://dev.to/codeoz/webpack-academy-0-what-is-webpack-and-why-use-it-2lco?fbclid=IwAR0U3HwBgBkRNyqONpbTBdJGOXuYY6hqbWPlNDn8HcStVBtlN_iiK77zr_)
+  - 쉽게 웹팩에 대한 설명을 잘해 놓음
+
 # GraphQL
 - [How to GraphQL ](https://velog.io/@cadenzah/graphql-01-introduction)
 
