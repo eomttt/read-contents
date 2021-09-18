@@ -249,6 +249,9 @@
       - 바닐라 자바스크립트로 가상돔 만들기
       - 바닐라 자바스크립트로 React UseState hook 만들기
 
+- [[JavaScript] 프로토타입(ProtoType) 이해하기](https://lygggg.github.io/blog/prototype/)
+    - JavaScript 프로토타입에 대하여 쉽게 잘 설명해놓음
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
