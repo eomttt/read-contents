@@ -166,6 +166,9 @@
   ![](https://res.cloudinary.com/practicaldev/image/fetch/s--C20i-QC5--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e6dnsn2z05yulf4t5qls.png)
 
 - [Incremental DOM과 Virtual DOM 비교](https://ui.toast.com/weekly-pick/ko_20210819)
+
+- [Just Redux: The Complete Guide](https://dev.to/thesanjeevsharma/just-redux-the-complete-guide-44d5?signin=true)
+  ![](https://res.cloudinary.com/practicaldev/image/fetch/s--exod_ch1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e2x8d1a346qmckc9iu16.png)
 # JavaScript
 - [어떠한 배열을 입력하면, 이 배열이 정렬된 배열로 부터 (push , pop)을 사용하여 만들어 질 수 있는지에 대한 문제](https://eomtttttt-develop.tistory.com/218)
 
