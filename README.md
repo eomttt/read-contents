@@ -41,7 +41,12 @@
 
 - [개발 도서 관련 NOTION](https://www.notion.so/ReadIT-Letter-IT-85b693f175a74991a363f779a6d3c032)
 
-- [객체지향 개발 5대 원칙 (SOLID)](https://velog.io/@lsb156/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C-5%EB%8C%80-%EC%9B%90%EC%B9%99-SOLID)
+- SOLID 원칙
+  - [SOLID 원칙](https://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
+    - 객체지향 5대 원칙
+  - [[번역] 그림으로 보는 SOLID 원칙](https://blog.siner.io/2020/06/18/solid-principles/)
+    - 쉽게 그림으로 설명
+  - [객체지향 개발 5대 원칙 (SOLID)](https://velog.io/@lsb156/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B0%9C%EB%B0%9C-5%EB%8C%80-%EC%9B%90%EC%B9%99-SOLID)
 
 - [Web developer roadmap](https://github.com/devJang/developer-roadmap)
 
