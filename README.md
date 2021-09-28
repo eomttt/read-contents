@@ -261,6 +261,12 @@
 - [[JavaScript] 프로토타입(ProtoType) 이해하기](https://lygggg.github.io/blog/prototype/)
     - JavaScript 프로토타입에 대하여 쉽게 잘 설명해놓음
 
+- JavaScript Decorators
+  - [JavaScript Decorator 이해하기](https://wonism.github.io/what-is-decorator/)
+  - [자바스크립트 데코레이터 이해하기](https://ui.toast.com/weekly-pick/ko_20200102)
+  - [Javascript - Decorator 문법](https://godsenal.com/posts/Javascript-Decorator-%EB%AC%B8%EB%B2%95/)
+  - [JavaScript의 Decorator](https://bonita-sy.tistory.com/entry/JavaScript%EC%9D%98-Decorator)
+
 ## React
   - [Styled-component 에 props 로 style 적용](https://eomtttttt-develop.tistory.com/211)
 
