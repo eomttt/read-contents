@@ -26,6 +26,7 @@
   - [Git](https://github.com/eomttt/studies#git)
 - [Regex](https://github.com/eomttt/studies#regex)
 - [Shell script](https://github.com/eomttt/studies#shell-script)
+- [SQL](https://github.com/eomttt/studies#sql)
 
 
 # Development References
@@ -478,3 +479,8 @@
 - [정규식 포기자를 위한 가장 쉬운 정규식 — 하](https://medium.com/harrythegreat/%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8F%AC%EA%B8%B0%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%95%98-a4446854297e)
 # Shell script
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
+
+# SQL
+- [비전공자를 위한 SQL](https://brunch.co.kr/@dan-kim/8)
+  - 데이터 베이스에 관하여 기초적인 포스팅
+  - 나도 회사에서 어깨너머로 배웠고 제대로 본적이 없기 때문에 보면서 도움이 많이 될것 같다.
