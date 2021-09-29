@@ -466,6 +466,14 @@
 ## AWS
 - [AWS 자습서](https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b)
 
+- AWS VPC
+  - [[AWS] 가장쉽게 VPC 개념잡기](https://medium.com/harrythegreat/aws-%EA%B0%80%EC%9E%A5%EC%89%BD%EA%B2%8C-vpc-%EA%B0%9C%EB%85%90%EC%9E%A1%EA%B8%B0-71eef95a7098)
+  - [AWS VPC 기본 개념 정리 - VPC를 구성하는 기본 원리](https://pjh3749.tistory.com/283)
+  - 인프라 쪽을 보게 되면서 AWS VPC 에 대하여 알아보는중
+  - 논리적으로 격리된 공간을 프로비저닝하여 고객이 정의하는 가상 네트워크에서 AWS 리소스를 시작할 수 있습니다.
+  - IP 주소 범위 선택, 서브넷 생성, 라우팅 테이블 및 네트워크 게이트웨이 구성 등 가상 네트워킹 환경을 완벽하게 제어
+  - VPC, Subnet, Route Table, Internet Gateway, Network ACL 등을 설정 및 제공
+
 ## Jenkins
 - [Jenkins port 변경](https://eomtttttt-develop.tistory.com/222)
 ## Docker
