@@ -33,6 +33,7 @@
 - [고퀄리티⚡개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 
 - [30 seconds of code](https://www.30secondsofcode.org/)
+  - 심심할때 마다 짧게 짧게 한번씩 보면 재미있을듯
 
 - [함수형 프로그래머가 되고 싶다고?](https://fedevelopers.github.io/tech.description/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EA%B3%A0-(Part-1)/)
   - 함수형 프로그래밍을 하는 법에 대하여 자세하게 설명하고 있고 대략적인 함수형 프로그램이 무엇인가에 대한 설명이 되어있다
@@ -102,6 +103,9 @@
 - [Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
   - 틈틈히 보면 좋을 기초적인 것들
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+  - 😎 Awesome lists about all kinds of interesting topics
+  - 궁금한게 있으면 여기서 찾아봐도 될듯
 
 # CS
 
@@ -180,11 +184,13 @@
 
 - [Sort 오름차순, 내림차순](https://eomtttttt-develop.tistory.com/221)
 
-- [Clean Code JavaScript](https://github.com/qkraudghgh/clean-code-javascript-ko)
+- [Clean Code JavaScript - ko](https://github.com/qkraudghgh/clean-code-javascript-ko)
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 - [Curry, Partial 차이](https://eomtttttt-develop.tistory.com/234)
 
 - [JavaScript questions](https://github.com/lydiahallie/javascript-questions)
+  - 면접보기 전에 한번씩 상기하기 좋을듯
 
 - [JavaScript 33 concepts](https://github.com/yjs03057/33-js-concepts)
 
