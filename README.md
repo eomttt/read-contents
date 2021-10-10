@@ -330,6 +330,26 @@
   - [Debug Why React (Re-)Renders a Component](https://dev.to/mokkapps/debug-why-react-re-renders-a-component-3i8e)
     - React render component 디버깅 방법, 컴포넌트 리렌더링 될때 하이라이트 하는 부분은 알고 있었는데, 실제로 DOM이 업데이트 되는 부분도 잡을수 있었다.
 
+  - [Stop Using Atomic Design Pattern](https://jbee.io/react/stop-using-atomic-design/)
+    - 상당부분 동의하는글
+    - 실제로 아토믹 디자인을 적용하다 보면 이것이 원자인지 분자인지 유기체인지 애매할때가 많음
+    - 이런것들을 빡세게 지켜나가기 위해 시간 소비도 상당함
+    - 적절하게 상황에 맞는 컴포넌트를 상황에 맞게 그룹핑 하는것이 더 효율적임
+    - 흐음... 그리고 정말 재사용 가능한 컴포넌트들이 있긴 한가에 대한 의문도 들긴함
+    - 재사용 가능한 컴포넌트가 되려면 디자인시스템이 정말 잘 되어 있어야할것 같음 (토스 처럼)
+    -  변경에 유연하게 대응하는 코드를 작성하도록 늘 주의해야겠다.
+
+  - [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)
+    1. 데이터 기반 설계
+      - 데이터 중심으로 컴포넌트 분리하기 (주소목록, 주소 아이템으로 분리)
+      - 역할 중심으로 분리 (주소 아이템 클릭시 handler 를 주소 아이템 컴포넌트 내부로 옮김)
+    2. 일반적인 인터페이스 설계
+      - 인터페이스는 사용하는 쪽을 위한것임, 사용하는 쪽에서 인터페이스를 보고 어떻게 동작할지 예상 가능해야함, 외부와의 의존성을 만듬
+      1. 도메인을 모르는 컴포넌트 (주소 아이템 보다는 플렉스 아이템으로 이름을 짓는것이 더 일반적인 이름)
+      2. 응집도 있는 컴포넌트 (구현을 캡슐화 하여 내부의 변경이 외부에 영향을 미치지 않도록 함)
+        - button, text props 보다는 위치를 정할 수 있는 right, left props 를 만들어서 외부와의 의존서을 만들고 내부 응집도를 높임
+        - 플렉스 아이템 보다는 리스트 아이템으로 구현하고 스타일을 받을 수 있도록 한다거나, 버튼 위치를 명명하는 right props를 만들어서 외부와의 의존성을 만듬
+
 ## React Native
   - [React-native Animation](https://medium.com/@marong61/react-native-animation-kor-%ED%95%9C%EA%B8%80-e269755af419)
 
