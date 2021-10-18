@@ -14,6 +14,7 @@
 - [Rust](https://github.com/eomttt/studies/#rust)
 - [Go](https://github.com/eomttt/studies/#go)
 - [Swift](https://github.com/eomttt/studies/#swift)
+- [Python](https://github.com/eomttt/studies/#python)
 - [HTML](https://github.com/eomttt/studies#html)
 - [CSS](https://github.com/eomttt/studies#css)
 - [Webpack](https://github.com/eomttt/studies#webpack)
@@ -399,6 +400,12 @@
 # Swift
 - [Swift converter](https://swiftify.com/converter/project/)
   - Object C -> swift converter util
+
+# Python
+- [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+  - builtin으로 파이썬의 모든것을 이해하기
+  - builtin 모듈에 있는 내장 객체들을 하나씩 설명하는 방식을 파이썬을 이해하도록 구성한글
+  - 나중에 파이썬 공부할일이 생기면 보면 좋을듯
 
 # HTML
 - [12 HTML Tags You Don't Know](https://www.youtube.com/watch?v=PkgR767YgFk)
