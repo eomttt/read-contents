@@ -114,6 +114,7 @@
   - 컴퓨터 구조론 학습을 위한 레포. 가끔씩 한번씩 보면 좋을듯. 역시 기본이 탄탄해야 한다는 생각
 
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [javascript-algorithms korean](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
   - 언젠가는 보겠지..... 알고리즘
 
 - [JavaScript로 트리, BFS, DFS 구현하기](https://jun-choi-4928.medium.com/javascript%EB%A1%9C-%ED%8A%B8%EB%A6%AC-bfs-dfs-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-e96bcdadd1f3)
