@@ -113,7 +113,7 @@
 - [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
   - 컴퓨터 구조론 학습을 위한 레포. 가끔씩 한번씩 보면 좋을듯. 역시 기본이 탄탄해야 한다는 생각
 
-- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
   - 언젠가는 보겠지..... 알고리즘
 
 - [JavaScript로 트리, BFS, DFS 구현하기](https://jun-choi-4928.medium.com/javascript%EB%A1%9C-%ED%8A%B8%EB%A6%AC-bfs-dfs-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-e96bcdadd1f3)
@@ -228,8 +228,6 @@
 - [JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 
 - [Open base js](https://openbase.io/)
-
-- [Javascript algorithms and data structure](https://github.com/trekhleb/javascript-algorithms)
 
 - [Babel7과 corejs3 설정으로 전역 오염 없는 폴리필 사용하기](https://tech.kakao.com/2020/12/01/frontend-growth-02/)
 
