@@ -108,6 +108,9 @@
   - 😎 Awesome lists about all kinds of interesting topics
   - 궁금한게 있으면 여기서 찾아봐도 될듯
 
+- [What happens when...](https://github.com/SantonyChoi/what-happens-when-KR)
+  - URL 창에 주소를 클릭했을떄에 생기는 일...
+
 # CS
 
 - [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
