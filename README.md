@@ -111,6 +111,19 @@
 - [What happens when...](https://github.com/SantonyChoi/what-happens-when-KR)
   - URL 창에 주소를 클릭했을떄에 생기는 일...
 
+- [클린 코드(Clean Code) 요약](https://shinsunyoung.tistory.com/124)
+  - 아직 읽어보지 못했고 집에는 있는 책
+  - 읽어보고 요약본 비교해보면 좋을듯
+  - 깨끗한 코드란?
+  - 의미 있는 이름
+  - 함수
+  - 주석
+  - 객체와 자료구조
+    - '자바는 객체지향 언어니까 무조건 객체지향적으로 코딩해야지!'라는 생각을 했는데, 이 책에서는 상황에 따라 절차 지향적인 방법을 선택할 수도 있다는 내용을 담고 있었다. 개인적으로 인상 깊어서 예제 코드까지 메모를 해두었다. (인상적임)
+  - 오류 처리
+  - 단위 테스트
+  - 동시성`
+
 # CS
 
 - [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
