@@ -165,6 +165,29 @@
   - 로그아웃시 두 token invalidate
     ![image](https://miro.medium.com/max/552/1*AYquDbJcInrxaAGnEqZDzA.png)
 
+- [API Architecture — Design Best Practices for REST APIs](https://abdulrwahab.medium.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f)
+
+  - Learn basic of HTTP
+  - Do not return plain text
+  - Do not use verbs in uri
+  - Use plural nouns for resources (복수형 사용)
+  - Return the error details in the response body
+  - Pay special attention to HTTP status codes
+  - You should use HTTP status codes consistently
+    - GET: 200 OK
+    - PUT: 200 OK
+    - POST: 201 Created
+    - PATCH: 200 OK
+    - DELETE: 204 No Content
+  - Do not nest resources
+  - Handle trailing slashes gracefully
+  - Make use of the querystring for filtering and pagination
+  - Know the difference between 401 Unauthorized and 403 Forbidden
+    - Has the consumer not provided authentication credentials? Was their SSO Token invalid/timed out? 👉 401 Unauthorized.
+    - Was the consumer correctly authenticated, but they don’t have the required permissions/proper clearance to access the resource? 👉 403 Forbidden.
+  - Make good use of HTTP 202 Accepted
+  - Use a web framework specialized in REST APIs
+
 # CS
 
 - [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
