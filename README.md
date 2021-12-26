@@ -452,6 +452,30 @@
      - button, text props 보다는 위치를 정할 수 있는 right, left props 를 만들어서 외부와의 의존서을 만들고 내부 응집도를 높임
      - 플렉스 아이템 보다는 리스트 아이템으로 구현하고 스타일을 받을 수 있도록 한다거나, 버튼 위치를 명명하는 right props를 만들어서 외부와의 의존성을 만듬
 
+- [React 개발 환경 구축하며 알게된 것들](https://maxkim-j.github.io/posts/frontend-tooling-ideas)
+  - Webpack loader 적용 순서
+    - 우 -> 좌
+    - 하 -> 상
+  - babel loader vs babelrc
+    - .babelrc 파일 만들어서 하는것이 더 편함
+  - babel preset, plugin 적용 순서
+    - plugin -> preset
+    - plugin 은 순서대로 preset 은 webpack 하고 같은 순서로
+  - Tree shaking 에 적합한 세팅
+    - 트리쉐이킹은 기본적으로 정적분석이 가능한 ESM 형태인 경우 가능
+    - 따라서 ESM 으로 작성된 상태를, `webpack terser` 가 트리쉐이킹 하고 minify 할때까지 유지해야함
+    - `tsconfig` 에서 `module: ESNext`, `@babel/preset-env`의 `modules: false`
+    - 이러면 번들링 결과물이 ESM 으로 나와 문제가 되는것 아닌가 싶지만 웹펙이 알아서 호환성 문제를 잘 처리해줌
+  - 선택의 여지 (`babel`, `tsc`, `webpack`)
+    - TypeScript : tsc vs @babel/preset-typescript
+      - babel/preset-typescript 는 트랜스파일시 그냥 type 파일 무시, tsc 는 type 파일 기반으로 다 확인
+      - 따라서 속도는 babel/preset-typescript 가 더 빠름
+    - JSX : tsconfig vs @babel/preset-react
+      - JSX 변환을 TypeScript 트랜스파일 단계에서 하느냐, @babel/preset-react를 사용해서 하느냐의 차이
+    - ES5 : 그냥 Babel
+      - 웹 어플리케이션을 개발할 때 babel을 쓰지 않고 tsc만 쓰는 경우는 거의 없을 것입니다.
+      - `@babel/preset-env`를 이용하면 브라우저 호환성 옵션을 설정하거나, 트리 쉐이킹에 적합한 설정을 하는 등 웹 개발에 필요한 다양한 옵션을 사용할 수 있으니까요.
+
 ## React Native
 
 - [React-native Animation](https://medium.com/@marong61/react-native-animation-kor-%ED%95%9C%EA%B8%80-e269755af419)
