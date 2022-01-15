@@ -242,7 +242,19 @@
   - 언젠가는 보겠지..... 알고리즘
 
 - [JavaScript로 트리, BFS, DFS 구현하기](https://jun-choi-4928.medium.com/javascript%EB%A1%9C-%ED%8A%B8%EB%A6%AC-bfs-dfs-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-e96bcdadd1f3)
+
   - 너비 우선탐색, 깊이 우선탐색
+
+- [OSI 7계층 모델](https://present.do/presentations/61443969e3562505806fa234?page=74)
+
+  - 아주 쉽게 설명을 잘 해놓음
+  - Application Layer: 응용 프로그램에 목적이 달라서 각각의 목적에 맞게 통신 규약 정리 (HTTP, SMTP)
+  - Presentation Layer: 응용 프로그램의 표현을 표준화
+  - Session Layer: 사회자! 통신의 진행방법과 연결을 담당
+  - Transport Layer: 데이터 전송 행위의 초점을 맞춤 - 데이터 전송의 신뢰성 보장 (TCP/UDP) - 우체국 같은 서비스
+  - Network Layer: 서로 다른 네트워크 간에 효율적인 통신을 위해서 IP, Subnet, Routing 기술 이용
+  - DataLink Layer: 고유주소인 MAC 주소를 이용해서 정확한 주소로의 전송을 책임지고, 데이터 흐름 제어하는 신호체계 같은 역할
+  - Physical Layer: 실제 전송을 위한 장치를 이용해서 전송
 
 ## Network
 
