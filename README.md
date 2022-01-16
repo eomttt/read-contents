@@ -331,7 +331,13 @@
   ![](https://res.cloudinary.com/practicaldev/image/fetch/s--exod_ch1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e2x8d1a346qmckc9iu16.png)
 
 - [FrontEndCollection](https://github.com/cheatsheet1999/FrontEndCollection)
+
   - 일반적인 data structure, 알고리즘, 기본 웹 개념, HTML, CSS 관하여...
+
+- [Patterns](https://www.patterns.dev/)
+  - Improve how you architect webapps
+  - [Post](https://www.patterns.dev/posts/)
+  - 1주일에 한번씩 읽으면 좋을듯
 
 # JavaScript
 
