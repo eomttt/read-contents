@@ -335,9 +335,13 @@
   - 일반적인 data structure, 알고리즘, 기본 웹 개념, HTML, CSS 관하여...
 
 - [Patterns](https://www.patterns.dev/)
+
   - Improve how you architect webapps
   - [Post](https://www.patterns.dev/posts/)
   - 1주일에 한번씩 읽으면 좋을듯
+
+- [Frontend Developer Resources 2022](https://www.iamdeveloper.com/posts/frontend-developer-resources-2022-4cp2/)
+  - 유용한 FE Resources
 
 # JavaScript
 
