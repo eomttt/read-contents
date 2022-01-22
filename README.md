@@ -15,6 +15,7 @@
 - [Go](https://github.com/eomttt/studies/#go)
 - [Swift](https://github.com/eomttt/studies/#swift)
 - [Python](https://github.com/eomttt/studies/#python)
+- [Kotlin](https://github.com/eomttt/studies/#kotlin)
 - [HTML](https://github.com/eomttt/studies#html)
 - [CSS](https://github.com/eomttt/studies#css)
 - [Webpack](https://github.com/eomttt/studies#webpack)
@@ -628,6 +629,12 @@
   - builtin으로 파이썬의 모든것을 이해하기
   - builtin 모듈에 있는 내장 객체들을 하나씩 설명하는 방식을 파이썬을 이해하도록 구성한글
   - 나중에 파이썬 공부할일이 생기면 보면 좋을듯
+
+# Kotlin
+
+- [코틀린 코루틴(coroutine) 개념 익히기](https://wooooooak.github.io/kotlin/2019/08/25/%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4-%EA%B0%9C%EB%85%90-%EC%9D%B5%ED%9E%88%EA%B8%B0/)
+
+  - 뭔가 제일 이해하기 쉬웠음
 
 # HTML
 
