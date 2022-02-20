@@ -231,6 +231,10 @@
     - 배포 관련 스크립트를 동일 코드베이스에 놓기
     - 여러 유틸리성 스크립트(codegen, git, eslint) 를 같은 코드베이스에 놓기
 
+- [[번역] 성급한 추상화에 관하여 - AHA Programming (Kent C. Dodds) ](https://365kim.tistory.com/77)
+  - '중복은 잘못된 추상화보다 비용이 낮다. 그러므로 잘못된 추상화보다는 중복을 선호하자.'
+  - 오히려 성급하게 추상화 하기 보다 중복 코드를 작성하다 보면 생각 보다 추상화가 안될 수도 있고 더욱 좋은 추상화가 나올 수도 있다.
+
 # CS
 
 - [컴퓨터과학 스스로 학습하기](https://github.com/minnsane/TeachYourselfCS-KR)
