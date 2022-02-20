@@ -380,6 +380,7 @@
   - Lodash 함수를 JS, RxJS 로 변경 할 수가 있는데 그에 대한 답들을 몇가지 준다. (딱히 lodash 가 필요없다는...하지만 성능 측정이 필요해보이긴한다) 나중에 한번 비교 측정 해보고싶다.
 
 - [JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [움짤로 보는 자바스크립트 동작원리](https://kkangdda.tistory.com/78?category=830981)
 
   - Event Loop
   - Hoisting
