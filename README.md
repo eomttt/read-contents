@@ -10,6 +10,7 @@
   - [React](https://github.com/eomttt/studies#react)
   - [React Native](https://github.com/eomttt/studies#react-native)
   - [Node](https://github.com/eomttt/studies#node)
+  - [Svelte](https://github.com/eomttt/studies#svelte)
 - [TypeScript](https://github.com/eomttt/studies#typescript)
 - [Rust](https://github.com/eomttt/studies/#rust)
 - [Go](https://github.com/eomttt/studies/#go)
@@ -585,6 +586,10 @@
   - Next.js를 개발한 Vercel에서 개발한 도구로, 개발한 Node.js 패키지를 Node.js가 설치되지 않은 환경에서도 실행 가능한 파일로 만들어 준다.
 
 -[모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385) - Package.json 에 대한 간결한 설명
+
+## Svelte
+
+- [Stop Overcomplicating Web Development - Try Svelte ](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
 
 # TypeScript
 
