@@ -4,6 +4,8 @@
 
 ## 영감을 많이 받거나 유용한 글이라고 판단되면 [README](https://github.com/eomttt/studies) 로 옮김
 
+## [2022-04](https://github.com/eomttt/studies/blob/master/TDRL/202204.md)
+
 ## [2022-03](https://github.com/eomttt/studies/blob/master/TDRL/202203.md)
 
 ## [2022-02](https://github.com/eomttt/studies/blob/master/TDRL/202202.md)
