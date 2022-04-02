@@ -585,7 +585,15 @@
 - [Pkg](https://github.com/vercel/pkg)
   - Next.js를 개발한 Vercel에서 개발한 도구로, 개발한 Node.js 패키지를 Node.js가 설치되지 않은 환경에서도 실행 가능한 파일로 만들어 준다.
 
--[모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385) - Package.json 에 대한 간결한 설명
+-[모두 알지만 모두 모르는 package.json](https://programmingsummaries.tistory.com/385)
+
+- Package.json 에 대한 간결한 설명
+
+- [Node.js 이벤트 루프(Event Loop) 샅샅이 분석하기](https://www.korecmblog.com/node-js-event-loop/)
+
+- 지금 보니 조금 오래된 글이지만 아주 샅샅이 설명 되어있어서 좋음
+- 이벤트 루프가 각 Phase 를 돌면서 각 Phase 의 Queue 에 쌓여있는 함수를 실행함
+- 그런데 nextTickQueue, microTaskQueue 에 실행할 함수가 있는 경우 다음 phase 로 넘어가지 않고 작업 끝난 후 확인 후 실행
 
 ## Svelte
 
