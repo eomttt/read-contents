@@ -597,7 +597,7 @@
 
 ## Svelte
 
-- [Stop Overcomplicating Web Development - Try Svelte ](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
+- [Stop Overcomplicating Web Development - Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
 
 # TypeScript
 
