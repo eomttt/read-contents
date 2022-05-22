@@ -365,6 +365,7 @@
   - 면접보기 전에 한번씩 상기하기 좋을듯
 
 - [JavaScript 33 concepts](https://github.com/yjs03057/33-js-concepts)
+- [33 JavaScript Concepts Every Developer Should Know 🤓️💯️](https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao)
 
 - [Intersection Observer](https://velog.io/@yejinh/Intersection-Observer%EB%A1%9C-%EB%AC%B4%ED%95%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
