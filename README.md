@@ -29,7 +29,8 @@
   - [Git](https://github.com/eomttt/studies#git)
 - [Regex](https://github.com/eomttt/studies#regex)
 - [Shell script](https://github.com/eomttt/studies#shell-script)
-- [SQL](https://github.com/eomttt/studies#sql)
+- [DataBase](https://github.com/eomttt/studies#database)
+  - [SQL](https://github.com/eomttt/studies#sql)
 
 # Development References
 
@@ -801,7 +802,24 @@
 
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html?m=1)
 
-# SQL
+# DataBase
+
+- [Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-databases/)
+
+  - DataBase 에 기본적인 개념들
+
+- [[Database] 정규화(Normalization) 쉽게 이해하기[MangKyu's Diary:티스토리]](https://mangkyu.tistory.com/110)
+- [[Database] 정규화 정리](https://insight-bgh.tistory.com/495)
+  - 1NF
+    - 테이블의 컬럼이 원자값을 갖도록 테이블을 분해
+  - 2NF
+    - 기본키의 부분 집합이 결정자가 되어선 안된다는 것을 의미
+  - 3NF
+    - 식별자 이외의 속성간에 종속성이 생기면 안되는 것
+  - BCNF
+    - 모든 결정자가 후보키가 되도록 테이블을 분해
+
+## SQL
 
 - [비전공자를 위한 SQL](https://brunch.co.kr/@dan-kim/8)
   - 데이터 베이스에 관하여 기초적인 포스팅
