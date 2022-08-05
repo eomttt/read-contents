@@ -810,6 +810,7 @@
 
 - [[Database] 정규화(Normalization) 쉽게 이해하기[MangKyu's Diary:티스토리]](https://mangkyu.tistory.com/110)
 - [[Database] 정규화 정리](https://insight-bgh.tistory.com/495)
+
   - 1NF
     - 테이블의 컬럼이 원자값을 갖도록 테이블을 분해
   - 2NF
@@ -818,6 +819,27 @@
     - 식별자 이외의 속성간에 종속성이 생기면 안되는 것
   - BCNF
     - 모든 결정자가 후보키가 되도록 테이블을 분해
+
+- [[데이터베이스] 트랜잭션과 격리성](https://sabarada.tistory.com/117)
+- [[데이터베이스] Lock에 대해서 알아보자 - 기본편](https://sabarada.tistory.com/121)
+- [[데이터베이스] MySQL 트랜잭션 격리 수준](https://steady-coding.tistory.com/562)
+- [[데이터베이스] 트랜잭션 격리수준](https://velog.io/@guswns3371/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B2%A9%EB%A6%AC%EC%88%98%EC%A4%80)
+
+![](https://blog.kakaocdn.net/dn/FR7bi/btrputrlGyK/RsdPk8dHcGRvc58DPgIxck/img.png)
+
+- READ UNCOMMITTED
+  - 한 트랜잭션의 변경된 내용을 커밋이나 롤백과 상관 없이 다른 트랜잭션에서 읽을 수 있는 격리 수준
+  - 모든 부정합 문제 발생
+- READ COMMITTED
+  - COMMIT이 완료된 데이터만 조회 가능한 격리 수준
+  - 더티 리드 해결 (undo 영역에 접근하여 해결)
+- REPEATABLE READ
+  - 트랜잭션이 시작되기 전에 커밋된 내용에 관해서만 조회할 수 있는 격리 수준
+  - NON-REPEATABLE-READ 해결 (transaction id 를 발급하여 해결)
+  - InnoDB에서는 PHANTOM READ 해결
+- SERIALIZABLE
+  - 한 트랜잭션을 다른 트랜잭션으로부터 완전히 분리하는 격리 수준
+  - 모든 부정합 문제 해결
 
 ## SQL
 
