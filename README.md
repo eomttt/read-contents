@@ -394,6 +394,10 @@
   - Generators and Iterators
   - Promisese & Async/Await
 
+- [Javascript V8 engine](https://garden.bradwoods.io/blueprints/js-engine/async)
+  - Javascript V8 엔진 동작 방식 그림으로 보여줌
+  - [JavaScript Visualized Series' Articles](https://dev.to/lydiahallie/series/3341) 와 비슷함
+
 - [[JavaScript] 요소의 절대좌표 상대좌표 구하기](https://mommoo.tistory.com/85)
 
 - [Clean Up Your Code by Removing ‘if-else’ Statements](https://medium.com/fedever/clean-up-your-code-by-removing-if-else-statements-31102fe3b083)
