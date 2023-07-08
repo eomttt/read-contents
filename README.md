@@ -25,9 +25,10 @@
 - [DevOps](https://github.com/eomttt/read-contents#devops)
   - [AWS](https://github.com/eomttt/read-contents#aws)
   - [Jenkins](https://github.com/eomttt/read-contents#jenkins)
+  - [K8S](https://github.com/eomttt/read-contents#k8s)
   - [Docker](https://github.com/eomttt/read-contents#docker)
   - [Serverless](https://github.com/eomttt/read-contents#serverless)
-  - [Git](https://github.com/eomttt/read-contents#git)
+- [Git](https://github.com/eomttt/read-contents#git)
 - [Regex](https://github.com/eomttt/read-contents#regex)
 - [Shell script](https://github.com/eomttt/read-contents#shell-script)
 - [DataBase](https://github.com/eomttt/read-contents#database)
@@ -787,6 +788,11 @@
 
 - [Jenkins port 변경](https://eomtttttt-develop.tistory.com/222)
 
+## K8S
+- [2023년 쿠버네티스 표준 아키텍처](https://yozm.wishket.com/magazine/detail/1998)
+  - 쿠버네티스에서 많이 사용되는 아키텍처
+  - 오버뷰 같은 느낌
+
 ## Docker
 
 - [Docker를 소개합니다](https://deveric.tistory.com/m/101?category=387263)
@@ -795,7 +801,7 @@
 
 - [Serverless 프레임워크 사용해서 배포하기](https://velog.io/@jeffyoun/Serverless-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
-## Git
+# Git
 
 - [Github Action 사용하여 React 앱 배포하기](https://velog.io/@loakick/Github-Action%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-S3%EC%97%90-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 
